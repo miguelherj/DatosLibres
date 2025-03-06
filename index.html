@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muertes Accidentes Tránsito - Neiva</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        Muertes en Accidentes de Tránsito - Neiva
+    </header>
+    
+    <nav>
+        <button onclick="mostrarGrafico('caracteristica_victima')">Características de la víctima</button>
+        <button onclick="mostrarGrafico('clase_accidente')">Clase de Accidente</button>
+        <button onclick="mostrarGrafico('vehiculo_victima')">Vehículo de la Víctima</button>
+        <button onclick="mostrarGrafico('vehiculo_contraparte')">Vehículo de la Contraparte</button>
+    </nav>
+
+    <section id="filtros">
+        <label for="edad">Edad:</label>
+        <input type="number" id="edad" placeholder="Ingrese edad" oninput="actualizarGrafico()">
+        
+        <label for="genero">Género:</label>
+        <select id="genero" onchange="actualizarGrafico()">
+            <option value="">Seleccione</option>
+            <option value="masculino">Masculino</option>
+            <option value="femenino">Femenino</option>
+        </select>
+    </section>
+
+    <section id="contenido">
+        <div class="grafico-container">
+            <canvas id="grafico"></canvas>
+        </div>
+        <p id="mensaje" class="mensaje-no-datos" style="display: none;">No hay datos disponibles para esta combinación.</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

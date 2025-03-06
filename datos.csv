@@ -1,0 +1,562 @@
+Fecha y Hora del hecho,Fecha del hecho,Dia de la semana,Hora del hecho (HH:MM),Comuna/Corregimiento,Tipo de via de Hechos,Clase de Accidente,Genero,Edad,Características de la victima,Vehiculo de la Victima,Vehiculo 2 de la contraparte,Vehiculo 3 de la contraparte,Vehiculo 4 de la contraparte
+01/01/2012 05:05:00 AM,01/01/2012 12:00:00 AM,domingo,1899-12-31T05:05:00.000,8,Municipal,Peatón Atropellado,Masculino,46,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+01/03/2012 08:00:00 PM,01/03/2012 12:00:00 AM,martes,1899-12-31T20:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,79,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+01/16/2012 12:00:00 AM,01/16/2012 12:00:00 AM,lunes,1899-12-31T00:00:00.000,1,Municipal,Sin Dato,Femenino,73,Peatón,Autónomo (Peatón),Sin dato,No aplica,No aplica
+01/22/2012 06:45:00 AM,01/22/2012 12:00:00 AM,domingo,1899-12-31T06:45:00.000,4,Municipal,Colisión con Objeto Fijo,Femenino,23,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/25/2012 06:45:00 PM,01/25/2012 12:00:00 AM,miércoles,1899-12-31T18:45:00.000,1,Municipal,Ciclista Atropellado,Femenino,5,Ciclista,Bicicleta,Camión/Camioneta,No aplica,No aplica
+01/29/2012 12:00:00 AM,01/29/2012 12:00:00 AM,domingo,1899-12-31T00:00:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,49,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+01/29/2012 12:00:00 AM,01/29/2012 12:00:00 AM,domingo,1899-12-31T00:00:00.000,6,Municipal,Peatón Atropellado,Femenino,59,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+02/05/2012 03:57:00 AM,02/05/2012 12:00:00 AM,domingo,1899-12-31T03:57:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,21,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+02/05/2012 03:25:00 AM,02/05/2012 12:00:00 AM,domingo,1899-12-31T03:25:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,25,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+02/10/2012 05:45:00 PM,02/10/2012 12:00:00 AM,viernes,1899-12-31T17:45:00.000,5,Municipal,Colisión con Objeto Móvil,Femenino,40,Pasajero Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+03/25/2012 07:23:00 AM,03/25/2012 12:00:00 AM,domingo,1899-12-31T07:23:00.000,5,Municipal,Caída de Ocupante,Femenino,43,Pasajero Vehículo,Microbus/Busetón,No aplica,No aplica,No aplica
+04/11/2012 12:00:00 AM,04/11/2012 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,2,Municipal,Sin Dato,Femenino,46,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+04/15/2012 10:10:00 PM,04/15/2012 12:00:00 AM,domingo,1899-12-31T22:10:00.000,2,Municipal,Caída de Ocupante,Femenino,42,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+04/16/2012 06:00:00 PM,04/16/2012 12:00:00 AM,lunes,1899-12-31T18:00:00.000,6,Municipal,Volcamiento,Masculino,62,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/21/2012 07:40:00 PM,04/21/2012 12:00:00 AM,sábado,1899-12-31T19:40:00.000,6,Municipal,Ciclista Atropellado,Masculino,16,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+04/22/2012 12:00:00 AM,04/22/2012 12:00:00 AM,domingo,1899-12-31T00:00:00.000,7,Municipal,Peatón Atropellado,Masculino,88,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+04/25/2012 09:20:00 AM,04/25/2012 12:00:00 AM,miércoles,1899-12-31T09:20:00.000,6,Municipal,Volcamiento,Femenino,41,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+05/02/2012 10:22:00 AM,05/02/2012 12:00:00 AM,miércoles,1899-12-31T10:22:00.000,10,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+05/05/2012 11:15:00 PM,05/05/2012 12:00:00 AM,sábado,1899-12-31T23:15:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,19,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+05/05/2012 11:15:00 PM,05/05/2012 12:00:00 AM,sábado,1899-12-31T23:15:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,22,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+05/05/2012 11:15:00 PM,05/05/2012 12:00:00 AM,sábado,1899-12-31T23:15:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,28,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+05/05/2012 11:15:00 PM,05/05/2012 12:00:00 AM,sábado,1899-12-31T23:15:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,43,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+05/06/2012 02:28:00 PM,05/06/2012 12:00:00 AM,domingo,1899-12-31T14:28:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,38,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+05/22/2012 12:17:00 PM,05/22/2012 12:00:00 AM,martes,1899-12-31T12:17:00.000,5,Municipal,Colisión con Objeto Móvil,Femenino,30,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+05/22/2012 12:17:00 PM,05/22/2012 12:00:00 AM,martes,1899-12-31T12:17:00.000,5,Municipal,Colisión con Objeto Móvil,Femenino,47,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+05/23/2012 08:00:00 PM,05/23/2012 12:00:00 AM,miércoles,1899-12-31T20:00:00.000,2,Municipal,Peatón Atropellado,Femenino,90,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/23/2012 06:35:00 AM,06/23/2012 12:00:00 AM,sábado,1899-12-31T06:35:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,27,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+06/23/2012 06:35:00 AM,06/23/2012 12:00:00 AM,sábado,1899-12-31T06:35:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,47,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+06/24/2012 12:00:00 AM,06/24/2012 12:00:00 AM,domingo,1899-12-31T00:00:00.000,Ninguna,Municipal,Peatón Atropellado,Masculino,73,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+06/25/2012 09:30:00 PM,06/25/2012 12:00:00 AM,lunes,1899-12-31T21:30:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,44,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+07/01/2012 08:30:00 PM,07/01/2012 12:00:00 AM,domingo,1899-12-31T20:30:00.000,5,Municipal,Peatón Atropellado,Masculino,56,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+07/03/2012 10:50:00 AM,07/03/2012 12:00:00 AM,martes,1899-12-31T10:50:00.000,5,Municipal,Colisión con Objeto Móvil,Femenino,4,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+07/15/2012 05:48:00 AM,07/15/2012 12:00:00 AM,domingo,1899-12-31T05:48:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,31,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/19/2012 12:50:00 PM,07/19/2012 12:00:00 AM,jueves,1899-12-31T12:50:00.000,5,Municipal,Peatón Atropellado,Masculino,84,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+07/30/2012 07:32:00 AM,07/30/2012 12:00:00 AM,lunes,1899-12-31T07:32:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,23,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+08/08/2012 11:10:00 AM,08/08/2012 12:00:00 AM,miércoles,1899-12-31T11:10:00.000,1,Municipal,Peatón Atropellado,Masculino,1,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+08/20/2012 01:40:00 AM,08/20/2012 12:00:00 AM,lunes,1899-12-31T01:40:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,19,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+08/29/2012 01:40:00 AM,08/29/2012 12:00:00 AM,miércoles,1899-12-31T01:40:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,20,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+09/02/2012 12:00:00 AM,09/02/2012 12:00:00 AM,domingo,1899-12-31T00:00:00.000,Vegalarga,Municipal,Peatón Atropellado,Masculino,43,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+09/03/2012 12:00:00 AM,09/03/2012 12:00:00 AM,lunes,1899-12-31T00:00:00.000,1,Municipal,Colisión con Objeto Móvil,Femenino,47,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+09/03/2012 07:12:00 PM,09/03/2012 12:00:00 AM,lunes,1899-12-31T19:12:00.000,5,Municipal,Peatón Atropellado,Femenino,54,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+09/05/2012 12:00:00 AM,09/05/2012 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,5,Municipal,Sin Dato,Masculino,21,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+09/08/2012 12:42:00 AM,09/08/2012 12:00:00 AM,sábado,1899-12-31T00:42:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,23,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/08/2012 07:18:00 AM,09/08/2012 12:00:00 AM,sábado,1899-12-31T07:18:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,53,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+09/09/2012 02:00:00 AM,09/09/2012 12:00:00 AM,domingo,1899-12-31T02:00:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,26,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/17/2012 08:47:00 PM,09/17/2012 12:00:00 AM,lunes,1899-12-31T20:47:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+09/29/2012 06:00:00 AM,09/29/2012 12:00:00 AM,sábado,1899-12-31T06:00:00.000,Vegalarga,Municipal,Volcamiento,Masculino,24,Conductor Vehículo,Vehiculo particular,Sin dato,No aplica,No aplica
+10/15/2012 12:00:00 AM,10/15/2012 12:00:00 AM,lunes,1899-12-31T00:00:00.000,3,Municipal,Sin Dato,Masculino,24,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/29/2012 12:00:00 AM,10/29/2012 12:00:00 AM,lunes,1899-12-31T00:00:00.000,9,Municipal,Caída de Ocupante,Femenino,48,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+11/18/2012 12:00:00 AM,11/18/2012 12:00:00 AM,domingo,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Femenino,19,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+11/21/2012 12:00:00 AM,11/21/2012 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,2,Municipal,Sin Dato,Masculino,27,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+11/21/2012 12:00:00 AM,11/21/2012 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,9,Municipal,Peatón Atropellado,Femenino,71,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+11/23/2012 12:00:00 AM,11/23/2012 12:00:00 AM,viernes,1899-12-31T00:00:00.000,9,Municipal,Peatón Atropellado,Femenino,68,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+11/30/2012 12:00:00 AM,11/30/2012 12:00:00 AM,viernes,1899-12-31T00:00:00.000,2,Municipal,Peatón Atropellado,Masculino,77,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+12/17/2012 12:00:00 AM,12/17/2012 12:00:00 AM,lunes,1899-12-31T00:00:00.000,2,Municipal,Colisión con Objeto Fijo,Masculino,24,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+12/18/2012 12:00:00 AM,12/18/2012 12:00:00 AM,martes,1899-12-31T00:00:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,21,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+12/19/2012 12:00:00 AM,12/19/2012 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,25,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+12/24/2012 12:00:00 AM,12/24/2012 12:00:00 AM,lunes,1899-12-31T00:00:00.000,1,Municipal,Otra Clase de Accidente,Femenino,23,Pasajero Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+12/25/2012 12:00:00 AM,12/25/2012 12:00:00 AM,martes,1899-12-31T00:00:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,23,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+01/04/2013 05:00:00 AM,01/04/2013 12:00:00 AM,viernes,1899-12-31T05:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,18,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+01/05/2013 12:00:00 AM,01/05/2013 12:00:00 AM,sábado,1899-12-31T00:00:00.000,9,Municipal,Colisión con Objeto Fijo,Masculino,59,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+01/10/2013 11:05:00 PM,01/10/2013 12:00:00 AM,jueves,1899-12-31T23:05:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,49,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/21/2013 06:30:00 AM,01/21/2013 12:00:00 AM,lunes,1899-12-31T06:30:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+01/24/2013 01:50:00 AM,01/24/2013 12:00:00 AM,jueves,1899-12-31T01:50:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,29,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+01/30/2013 12:00:00 AM,01/30/2013 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,5,Municipal,Peatón Atropellado,Femenino,72,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+02/09/2013 12:00:00 AM,02/09/2013 12:00:00 AM,sábado,1899-12-31T00:00:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+02/27/2013 08:30:00 PM,02/27/2013 12:00:00 AM,miércoles,1899-12-31T20:30:00.000,7,Municipal,Peatón Atropellado,Masculino,58,Peatón,Bicicleta,Taxi,Sin dato,Sin dato
+02/28/2013 12:00:00 AM,02/28/2013 12:00:00 AM,jueves,1899-12-31T00:00:00.000,4,Municipal,Sin Dato,Masculino,27,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+03/08/2013 08:00:00 PM,03/08/2013 12:00:00 AM,viernes,1899-12-31T20:00:00.000,1,Municipal,Colisión con Objeto Fijo,Femenino,54,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/14/2013 12:00:00 AM,04/14/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,42,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+04/15/2013 12:00:00 AM,04/15/2013 12:00:00 AM,lunes,1899-12-31T00:00:00.000,9,Municipal,Colisión con Objeto Fijo,Masculino,42,Conductor Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+05/09/2013 06:00:00 AM,05/09/2013 12:00:00 AM,jueves,1899-12-31T06:00:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,36,Conductor Moto,Taxi,Tractomula,Sin dato,Sin dato
+05/19/2013 12:00:00 AM,05/19/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,3,Municipal,Sin Dato,Femenino,56,Sin Dato,Sin dato,Motocicleta,No aplica,No aplica
+05/25/2013 12:00:00 AM,05/25/2013 12:00:00 AM,sábado,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Fijo,Femenino,38,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+05/26/2013 12:00:00 AM,05/26/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,22,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+05/28/2013 12:00:00 AM,05/28/2013 12:00:00 AM,martes,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,46,Conductor Moto,Taxi,Taxi,Sin dato,Sin dato
+06/04/2013 12:00:00 AM,06/04/2013 12:00:00 AM,martes,1899-12-31T00:00:00.000,El Caguán,Municipal,Sin Dato,Masculino,18,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+06/16/2013 12:00:00 AM,06/16/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,Ninguna,Nacional,Volcamiento,Masculino,11,Pasajero Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+06/16/2013 03:00:00 PM,06/16/2013 12:00:00 AM,domingo,1899-12-31T15:00:00.000,Ninguna,Nacional,Colisión con Objeto Fijo,Masculino,35,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+06/18/2013 12:00:00 AM,06/18/2013 12:00:00 AM,martes,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,68,Sin Dato,Lancha/otro,Taxi,Sin dato,Sin dato
+06/19/2013 12:00:00 AM,06/19/2013 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,44,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+06/24/2013 12:00:00 AM,06/24/2013 12:00:00 AM,lunes,1899-12-31T00:00:00.000,9,Municipal,Sin Dato,Masculino,47,Conductor Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+07/01/2013 12:00:00 AM,07/01/2013 12:00:00 AM,lunes,1899-12-31T00:00:00.000,3,Municipal,Sin Dato,Masculino,37,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+07/02/2013 12:00:00 AM,07/02/2013 12:00:00 AM,martes,1899-12-31T00:00:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Vehiculo particular,No aplica,No aplica,No aplica
+07/21/2013 07:00:00 AM,07/21/2013 12:00:00 AM,domingo,1899-12-31T07:00:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,26,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+07/21/2013 02:30:00 AM,07/21/2013 12:00:00 AM,domingo,1899-12-31T02:30:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,30,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+07/26/2013 04:20:00 PM,07/26/2013 12:00:00 AM,viernes,1899-12-31T16:20:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,25,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+07/28/2013 12:00:00 AM,07/28/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,El Caguán,Municipal,Sin Dato,Masculino,35,Conductor Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+07/30/2013 10:30:00 PM,07/30/2013 12:00:00 AM,martes,1899-12-31T22:30:00.000,10,Municipal,Colisión con Objeto Fijo,Femenino,22,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+08/04/2013 09:30:00 PM,08/04/2013 12:00:00 AM,domingo,1899-12-31T21:30:00.000,6,Municipal,Peatón Atropellado,Masculino,8,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+08/10/2013 01:45:00 AM,08/10/2013 12:00:00 AM,sábado,1899-12-31T01:45:00.000,7,Municipal,Colisión con Objeto Fijo,Masculino,15,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+08/11/2013 12:00:00 AM,08/11/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,El Caguán,Municipal,Sin Dato,Masculino,25,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+09/07/2013 12:00:00 AM,09/07/2013 12:00:00 AM,sábado,1899-12-31T00:00:00.000,1,Municipal,Sin Dato,Masculino,65,Sin Dato,Lancha/otro,Tractomula,Sin dato,Sin dato
+09/13/2013 04:10:00 AM,09/13/2013 12:00:00 AM,viernes,1899-12-31T04:10:00.000,Ninguna,Nacional,Volcamiento,Masculino,39,Conductor Vehículo,Vehiculo particular,Sin dato,Sin dato,Sin dato
+09/13/2013 04:10:00 AM,09/13/2013 12:00:00 AM,viernes,1899-12-31T04:10:00.000,Ninguna,Nacional,Volcamiento,Femenino,44,Pasajero Vehículo,Vehiculo particular,Sin dato,Sin dato,Sin dato
+09/13/2013 04:10:00 AM,09/13/2013 12:00:00 AM,viernes,1899-12-31T04:10:00.000,Ninguna,Nacional,Volcamiento,Femenino,67,Pasajero Vehículo,Vehiculo particular,Sin dato,Sin dato,Sin dato
+10/14/2013 10:30:00 PM,10/14/2013 12:00:00 AM,lunes,1899-12-31T22:30:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,34,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/20/2013 12:00:00 AM,10/20/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,22,Ciclista,Bicicleta,Taxi,No aplica,No aplica
+10/27/2013 12:00:00 AM,10/27/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,10,Municipal,Colisión con Objeto Fijo,Masculino,12,Pasajero Vehículo,Camión/Camioneta,No aplica,No aplica,No aplica
+10/27/2013 12:00:00 AM,10/27/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,10,Municipal,Otra Clase de Accidente,Masculino,19,Otro,No aplica,Camión/Camioneta,No aplica,No aplica
+11/10/2013 12:00:00 AM,11/10/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,4,Municipal,Sin Dato,Masculino,20,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+11/12/2013 07:25:00 AM,11/12/2013 12:00:00 AM,martes,1899-12-31T07:25:00.000,3,Municipal,Colisión con Objeto Móvil,Femenino,20,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+11/19/2013 12:00:00 AM,11/19/2013 12:00:00 AM,martes,1899-12-31T00:00:00.000,8,Municipal,Peatón Atropellado,Masculino,41,Peatón,Bicicleta,Vehiculo particular,Sin dato,Sin dato
+11/23/2013 12:00:00 AM,11/23/2013 12:00:00 AM,sábado,1899-12-31T00:00:00.000,Ninguna,Municipal,Caída de Ocupante,Masculino,10,Pasajero Vehículo,Camión/Camioneta,No aplica,No aplica,No aplica
+12/11/2013 10:40:00 PM,12/11/2013 12:00:00 AM,miércoles,1899-12-31T22:40:00.000,4,Municipal,Colisión con Objeto Móvil,Femenino,19,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+12/15/2013 12:00:00 AM,12/15/2013 12:00:00 AM,domingo,1899-12-31T00:00:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,56,Ciclista,Motocicleta,Vehiculo particular,Sin dato,Sin dato
+12/18/2013 04:30:00 PM,12/18/2013 12:00:00 AM,miércoles,1899-12-31T16:30:00.000,9,Municipal,Peatón Atropellado,Femenino,67,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+12/24/2013 12:00:00 AM,12/24/2013 12:00:00 AM,martes,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,47,Ciclista,Motocicleta,Vehiculo particular,Sin dato,Sin dato
+12/26/2013 12:00:00 AM,12/26/2013 12:00:00 AM,jueves,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,42,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+01/02/2014 12:00:00 AM,01/02/2014 12:00:00 AM,jueves,1899-12-31T00:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,22,Conductor Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+01/05/2014 12:00:00 AM,01/05/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,6,Municipal,Sin Dato,Masculino,35,Sin Dato,Lancha/otro,Lancha/otro,Sin dato,Sin dato
+01/21/2014 02:30:00 PM,01/21/2014 12:00:00 AM,martes,1899-12-31T14:30:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Femenino,47,Pasajero Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+01/22/2014 02:30:00 PM,01/22/2014 12:00:00 AM,miércoles,1899-12-31T14:30:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,18,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+01/31/2014 12:00:00 AM,01/31/2014 12:00:00 AM,viernes,1899-12-31T00:00:00.000,7,Municipal,Sin Dato,Masculino,28,Sin Dato,Lancha/otro,Lancha/otro,Lancha/otro,Lancha/otro
+02/02/2014 12:00:00 AM,02/02/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,31,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+02/26/2014 02:30:00 PM,02/26/2014 12:00:00 AM,miércoles,1899-12-31T14:30:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,18,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+03/03/2014 12:00:00 AM,03/03/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,30,Conductor Moto,Taxi,Tractomula,Sin dato,Sin dato
+03/17/2014 12:00:00 AM,03/17/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,19,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+03/31/2014 12:00:00 AM,03/31/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,Ninguna,Municipal,Peatón Atropellado,Masculino,83,Peatón,Bicicleta,Taxi,Sin dato,Sin dato
+04/05/2014 12:00:00 AM,04/05/2014 12:00:00 AM,sábado,1899-12-31T00:00:00.000,7,Municipal,Ciclista Atropellado,Masculino,79,Ciclista,Motocicleta,Taxi,Sin dato,Sin dato
+04/21/2014 12:00:00 AM,04/21/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,58,Conductor Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+04/26/2014 12:00:00 AM,04/26/2014 12:00:00 AM,sábado,1899-12-31T00:00:00.000,10,Municipal,Colisión con Objeto Móvil,Masculino,18,Conductor Moto,Taxi,Taxi,Sin dato,Sin dato
+05/01/2014 12:00:00 AM,05/01/2014 12:00:00 AM,jueves,1899-12-31T00:00:00.000,El Caguán,Municipal,Sin Dato,Masculino,43,Conductor Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+05/05/2014 12:00:00 AM,05/05/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,30,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+05/24/2014 12:00:00 AM,05/24/2014 12:00:00 AM,sábado,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Femenino,25,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+06/04/2014 12:00:00 AM,06/04/2014 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,55,Conductor Moto,Taxi,Tractomula,Sin dato,Sin dato
+06/08/2014 12:00:00 AM,06/08/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,31,Conductor Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+06/28/2014 06:00:00 AM,06/28/2014 12:00:00 AM,sábado,1899-12-31T06:00:00.000,Ninguna,Departamental,Colisión con Objeto Móvil,Femenino,20,Pasajero Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+06/28/2014 06:00:00 AM,06/28/2014 12:00:00 AM,sábado,1899-12-31T06:00:00.000,Ninguna,Departamental,Colisión con Objeto Móvil,Masculino,33,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+06/29/2014 12:00:00 AM,06/29/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,32,Conductor Moto,Taxi,Taxi,Sin dato,Sin dato
+06/29/2014 12:30:00 AM,06/29/2014 12:00:00 AM,domingo,1899-12-31T00:30:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,35,Conductor Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+06/29/2014 12:00:00 AM,06/29/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,Fortalecillas,Municipal,Sin Dato,Masculino,40,Conductor Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+07/05/2014 12:00:00 AM,07/05/2014 12:00:00 AM,sábado,1899-12-31T00:00:00.000,8,Municipal,Colisión con Objeto Móvil,Masculino,47,Pasajero Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+07/20/2014 12:00:00 AM,07/20/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,6,Municipal,Sin Dato,Masculino,61,Ciclista,Motocicleta,Lancha/otro,Sin dato,Sin dato
+07/23/2014 12:00:00 AM,07/23/2014 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,10,Municipal,Peatón Atropellado,Femenino,8,Peatón,Bicicleta,Vehiculo particular,Sin dato,Sin dato
+08/19/2014 12:00:00 AM,08/19/2014 12:00:00 AM,martes,1899-12-31T00:00:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,23,Conductor Moto,Taxi,Taxi,Sin dato,Sin dato
+08/28/2014 12:00:00 AM,08/28/2014 12:00:00 AM,jueves,1899-12-31T00:00:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,18,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+09/02/2014 10:30:00 PM,09/02/2014 12:00:00 AM,martes,1899-12-31T22:30:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,38,Conductor Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+09/17/2014 12:00:00 AM,09/17/2014 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,5,Municipal,Peatón Atropellado,Masculino,73,Peatón,Bicicleta,Taxi,Sin dato,Sin dato
+09/25/2014 12:00:00 AM,09/25/2014 12:00:00 AM,jueves,1899-12-31T00:00:00.000,9,Municipal,Ciclista Atropellado,Masculino,69,Ciclista,Motocicleta,Camión/Camioneta,Sin dato,Sin dato
+09/28/2014 12:00:00 AM,09/28/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,9,Municipal,Sin Dato,Masculino,37,Conductor Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+09/28/2014 12:00:00 AM,09/28/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,7,Municipal,Ciclista Atropellado,Masculino,79,Ciclista,Motocicleta,Lancha/otro,Sin dato,Sin dato
+10/10/2014 12:00:00 AM,10/10/2014 12:00:00 AM,viernes,1899-12-31T00:00:00.000,Fortalecillas,Municipal,Colisión con Objeto Fijo,Masculino,48,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+10/19/2014 11:15:00 PM,10/19/2014 12:00:00 AM,domingo,1899-12-31T23:15:00.000,9,Municipal,Colisión con Objeto Fijo,Masculino,24,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+10/19/2014 05:00:00 AM,10/19/2014 12:00:00 AM,domingo,1899-12-31T05:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,31,Conductor Moto,Taxi,Camión/Camioneta,Sin dato,Sin dato
+10/23/2014 12:20:00 AM,10/23/2014 12:00:00 AM,jueves,1899-12-31T00:20:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,33,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+11/01/2014 11:00:00 AM,11/01/2014 12:00:00 AM,sábado,1899-12-31T11:00:00.000,3,Municipal,Ciclista Atropellado,Masculino,66,Ciclista,Motocicleta,Taxi,Sin dato,Sin dato
+11/16/2014 04:20:00 AM,11/16/2014 12:00:00 AM,domingo,1899-12-31T04:20:00.000,5,Municipal,Colisión con Objeto Fijo,Femenino,29,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+11/16/2014 12:00:00 AM,11/16/2014 12:00:00 AM,domingo,1899-12-31T00:00:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,36,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+11/20/2014 10:30:00 PM,11/20/2014 12:00:00 AM,jueves,1899-12-31T22:30:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,26,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+11/30/2014 02:40:00 AM,11/30/2014 12:00:00 AM,domingo,1899-12-31T02:40:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,26,Conductor Moto,Taxi,Sin dato,Sin dato,Sin dato
+12/01/2014 12:00:00 AM,12/01/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,8,Municipal,Colisión con Objeto Móvil,Masculino,57,Sin Dato,Lancha/otro,Vehiculo particular,Sin dato,Sin dato
+12/08/2014 12:00:00 AM,12/08/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,4,Municipal,Peatón Atropellado,Masculino,49,Peatón,Bicicleta,Vehiculo particular,Sin dato,Sin dato
+12/11/2014 07:00:00 PM,12/11/2014 12:00:00 AM,jueves,1899-12-31T19:00:00.000,4,Municipal,Colisión con Objeto Móvil,Femenino,18,Pasajero Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+12/13/2014 12:00:00 AM,12/13/2014 12:00:00 AM,sábado,1899-12-31T00:00:00.000,10,Municipal,Colisión con Objeto Móvil,Masculino,85,Peatón,Bicicleta,Taxi,Sin dato,Sin dato
+12/16/2014 05:00:00 PM,12/16/2014 12:00:00 AM,martes,1899-12-31T17:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,22,Conductor Moto,Taxi,Vehiculo particular,Sin dato,Sin dato
+12/24/2014 05:00:00 PM,12/24/2014 12:00:00 AM,miércoles,1899-12-31T17:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Taxi,Tractomula,Sin dato,Sin dato
+12/24/2014 07:00:00 PM,12/24/2014 12:00:00 AM,miércoles,1899-12-31T19:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,53,Conductor Moto,Taxi,Taxi,Sin dato,Sin dato
+12/29/2014 12:00:00 AM,12/29/2014 12:00:00 AM,lunes,1899-12-31T00:00:00.000,9,Municipal,Sin Dato,Femenino,44,Pasajero Moto,Taxi,Lancha/otro,Sin dato,Sin dato
+01/12/2015 03:50:00 AM,01/12/2015 12:00:00 AM,lunes,1899-12-31T03:50:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,27,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/17/2015 06:30:00 PM,01/17/2015 12:00:00 AM,sábado,1899-12-31T18:30:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,31,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+01/18/2015 10:30:00 AM,01/18/2015 12:00:00 AM,domingo,1899-12-31T10:30:00.000,6,Municipal,Caída de Ocupante,Masculino,18,Pasajero Externo,Camión/Camioneta,No aplica,No aplica,No aplica
+01/20/2015 02:30:00 PM,01/20/2015 12:00:00 AM,martes,1899-12-31T14:30:00.000,1,Municipal,Ciclista Atropellado,Masculino,66,Ciclista,Bicicleta,Camión/Camioneta,No aplica,No aplica
+01/22/2015 04:23:00 AM,01/22/2015 12:00:00 AM,jueves,1899-12-31T04:23:00.000,7,Municipal,Ciclista Atropellado,Masculino,84,Ciclista,Bicicleta,Vehiculo particular,No aplica,No aplica
+01/26/2015 07:35:00 AM,01/26/2015 12:00:00 AM,lunes,1899-12-31T07:35:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,22,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+02/03/2015 11:30:00 AM,02/03/2015 12:00:00 AM,martes,1899-12-31T11:30:00.000,9,Municipal,Ciclista Atropellado,Masculino,62,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+02/15/2015 06:35:00 AM,02/15/2015 12:00:00 AM,domingo,1899-12-31T06:35:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,22,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+02/15/2015 06:35:00 AM,02/15/2015 12:00:00 AM,domingo,1899-12-31T06:35:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,23,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+03/05/2015 07:20:00 AM,03/05/2015 12:00:00 AM,jueves,1899-12-31T07:20:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,46,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+03/21/2015 08:47:00 PM,03/21/2015 12:00:00 AM,sábado,1899-12-31T20:47:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,22,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+04/14/2015 06:45:00 PM,04/14/2015 12:00:00 AM,martes,1899-12-31T18:45:00.000,4,Municipal,Peatón Atropellado,Masculino,76,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+04/25/2015 04:40:00 PM,04/25/2015 12:00:00 AM,sábado,1899-12-31T16:40:00.000,4,Municipal,Peatón Atropellado,Masculino,80,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+05/06/2015 10:30:00 AM,05/06/2015 12:00:00 AM,miércoles,1899-12-31T10:30:00.000,10,Municipal,Peatón Atropellado,Masculino,62,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+05/07/2015 07:10:00 PM,05/07/2015 12:00:00 AM,jueves,1899-12-31T19:10:00.000,6,Municipal,Peatón Atropellado,Femenino,55,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+05/10/2015 01:06:00 AM,05/10/2015 12:00:00 AM,domingo,1899-12-31T01:06:00.000,1,Municipal,Peatón Atropellado,Masculino,40,Peatón,Autónomo (Peatón),Taxi,No aplica,No aplica
+05/13/2015 06:55:00 PM,05/13/2015 12:00:00 AM,miércoles,1899-12-31T18:55:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,17,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+05/21/2015 09:05:00 PM,05/21/2015 12:00:00 AM,jueves,1899-12-31T21:05:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,19,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+05/29/2015 10:05:00 PM,05/29/2015 12:00:00 AM,viernes,1899-12-31T22:05:00.000,1,Municipal,Peatón Atropellado,Femenino,17,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+06/16/2015 07:40:00 AM,06/16/2015 12:00:00 AM,martes,1899-12-31T07:40:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,26,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/24/2015 07:00:00 AM,06/24/2015 12:00:00 AM,miércoles,1899-12-31T07:00:00.000,3,Municipal,Peatón Atropellado,Masculino,85,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/27/2015 05:52:00 AM,06/27/2015 12:00:00 AM,sábado,1899-12-31T05:52:00.000,7,Municipal,Colisión con Objeto Fijo,Masculino,19,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/19/2015 11:00:00 AM,07/19/2015 12:00:00 AM,domingo,1899-12-31T11:00:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,24,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+07/19/2015 12:55:00 PM,07/19/2015 12:00:00 AM,domingo,1899-12-31T12:55:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,39,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+07/26/2015 12:00:00 AM,07/26/2015 12:00:00 AM,domingo,1899-12-31T00:00:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,53,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+08/16/2015 05:10:00 AM,08/16/2015 12:00:00 AM,domingo,1899-12-31T05:10:00.000,Guacirco,Municipal,Colisión con Objeto Móvil,Masculino,44,Pasajero Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+08/16/2015 05:10:00 AM,08/16/2015 12:00:00 AM,domingo,1899-12-31T05:10:00.000,Guacirco,Municipal,Colisión con Objeto Móvil,Masculino,53,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+08/22/2015 05:24:00 AM,08/22/2015 12:00:00 AM,sábado,1899-12-31T05:24:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,32,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+08/22/2015 05:24:00 AM,08/22/2015 12:00:00 AM,sábado,1899-12-31T05:24:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,66,Pasajero Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+09/20/2015 12:00:00 AM,09/20/2015 12:00:00 AM,domingo,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/20/2015 04:47:00 AM,09/20/2015 12:00:00 AM,domingo,1899-12-31T04:47:00.000,Fortalecillas,Municipal,Volcamiento,Masculino,34,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+09/25/2015 12:00:00 AM,09/25/2015 12:00:00 AM,viernes,1899-12-31T00:00:00.000,3,Municipal,Caída de Ocupante,Femenino,19,Pasajero Moto,Motocicleta,Sin dato,Sin dato,Sin dato
+10/03/2015 11:00:00 AM,10/03/2015 12:00:00 AM,sábado,1899-12-31T11:00:00.000,5,Municipal,Peatón Atropellado,Masculino,11,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+10/10/2015 07:43:00 PM,10/10/2015 12:00:00 AM,sábado,1899-12-31T19:43:00.000,Fortalecillas,Municipal,Colisión con Objeto Móvil,Masculino,44,Conductor Moto,Motocicleta,Animales,No aplica,No aplica
+10/20/2015 12:15:00 AM,10/20/2015 12:00:00 AM,martes,1899-12-31T00:15:00.000,9,Municipal,Colisión con Objeto Fijo,Masculino,25,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/29/2015 01:41:00 AM,10/29/2015 12:00:00 AM,jueves,1899-12-31T01:41:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,17,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/30/2015 12:40:00 AM,10/30/2015 12:00:00 AM,viernes,1899-12-31T00:40:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,41,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+11/20/2015 09:16:00 AM,11/20/2015 12:00:00 AM,viernes,1899-12-31T09:16:00.000,Ninguna,Municipal,Caída de Ocupante,Masculino,48,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+11/24/2015 09:30:00 AM,11/24/2015 12:00:00 AM,martes,1899-12-31T09:30:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,46,Ciclista,Bicicleta,Camión/Camioneta,No aplica,No aplica
+12/05/2015 11:02:00 PM,12/05/2015 12:00:00 AM,sábado,1899-12-31T23:02:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,39,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+12/11/2015 04:40:00 AM,12/11/2015 12:00:00 AM,viernes,1899-12-31T04:40:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+12/20/2015 06:40:00 PM,12/20/2015 12:00:00 AM,domingo,1899-12-31T18:40:00.000,Vegalarga,Municipal,Volcamiento,Femenino,46,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+12/24/2015 07:46:00 PM,12/24/2015 12:00:00 AM,jueves,1899-12-31T19:46:00.000,Rio de la Ceibas,Municipal,Colisión con Objeto Fijo,Masculino,51,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+12/25/2015 10:45:00 PM,12/25/2015 12:00:00 AM,viernes,1899-12-31T22:45:00.000,6,Municipal,Volcamiento,Masculino,18,Pasajero Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+12/25/2015 08:21:00 AM,12/25/2015 12:00:00 AM,viernes,1899-12-31T08:21:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,30,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/01/2016 02:36:00 AM,01/01/2016 12:00:00 AM,viernes,1899-12-31T02:36:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,33,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+01/16/2016 06:36:00 PM,01/16/2016 12:00:00 AM,sábado,1899-12-31T18:36:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,54,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+01/20/2016 05:38:00 PM,01/20/2016 12:00:00 AM,miércoles,1899-12-31T17:38:00.000,4,Municipal,Peatón Atropellado,Masculino,74,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/20/2016 08:23:00 PM,01/20/2016 12:00:00 AM,miércoles,1899-12-31T20:23:00.000,6,Municipal,Caída de Ocupante,Femenino,19,Pasajero Moto,Motocicleta,Tractomula,No aplica,No aplica
+01/24/2016 02:15:00 AM,01/24/2016 12:00:00 AM,domingo,1899-12-31T02:15:00.000,2,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/24/2016 01:38:00 PM,01/24/2016 12:00:00 AM,domingo,1899-12-31T13:38:00.000,El Caguán,Municipal,Caída de Ocupante,Femenino,56,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+01/25/2016 05:47:00 PM,01/25/2016 12:00:00 AM,lunes,1899-12-31T17:47:00.000,1,Municipal,Caída de Ocupante,Femenino,77,Pasajero Vehículo,Microbus/Busetón,No aplica,No aplica,No aplica
+02/03/2016 09:56:00 PM,02/03/2016 12:00:00 AM,miércoles,1899-12-31T21:56:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,36,Conductor Moto,Motocicleta,Taxi,No aplica,No aplica
+02/13/2016 07:46:00 PM,02/13/2016 12:00:00 AM,sábado,1899-12-31T19:46:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,44,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+02/14/2016 07:08:00 PM,02/14/2016 12:00:00 AM,domingo,1899-12-31T19:08:00.000,7,Municipal,Caída de Ocupante,Femenino,30,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+02/14/2016 08:10:00 PM,02/14/2016 12:00:00 AM,domingo,1899-12-31T20:10:00.000,9,Municipal,Peatón Atropellado,Femenino,73,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+02/18/2016 10:23:00 PM,02/18/2016 12:00:00 AM,jueves,1899-12-31T22:23:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,21,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+03/02/2016 02:57:00 PM,03/02/2016 12:00:00 AM,miércoles,1899-12-31T14:57:00.000,7,Municipal,Peatón Atropellado,Femenino,82,Peatón,Autónomo (Peatón),Taxi,No aplica,No aplica
+03/07/2016 06:25:00 PM,03/07/2016 12:00:00 AM,lunes,1899-12-31T18:25:00.000,6,Municipal,Peatón Atropellado,Masculino,62,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+03/08/2016 09:40:00 PM,03/08/2016 12:00:00 AM,martes,1899-12-31T21:40:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,25,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+03/12/2016 03:14:00 AM,03/12/2016 12:00:00 AM,sábado,1899-12-31T03:14:00.000,2,Municipal,Colisión con Objeto Fijo,Masculino,44,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+03/16/2016 09:33:00 PM,03/16/2016 12:00:00 AM,miércoles,1899-12-31T21:33:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,48,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+03/18/2016 07:57:00 AM,03/18/2016 12:00:00 AM,viernes,1899-12-31T07:57:00.000,3,Municipal,Ciclista Atropellado,Masculino,65,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+03/29/2016 07:38:00 PM,03/29/2016 12:00:00 AM,martes,1899-12-31T19:38:00.000,Ninguna,Municipal,Colisión con Objeto Móvil,Masculino,52,Conductor Moto,Motocicleta,Bicicleta,No aplica,No aplica
+04/01/2016 12:00:00 AM,04/01/2016 12:00:00 AM,viernes,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+04/13/2016 12:22:00 AM,04/13/2016 12:00:00 AM,miércoles,1899-12-31T00:22:00.000,6,Municipal,Peatón Atropellado,Masculino,7,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+04/13/2016 06:48:00 AM,04/13/2016 12:00:00 AM,miércoles,1899-12-31T06:48:00.000,2,Municipal,Colisión con Objeto Fijo,Femenino,41,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/28/2016 05:07:00 AM,04/28/2016 12:00:00 AM,jueves,1899-12-31T05:07:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,23,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+04/28/2016 05:07:00 AM,04/28/2016 12:00:00 AM,jueves,1899-12-31T05:07:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,29,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/30/2016 12:00:00 AM,04/30/2016 12:00:00 AM,sábado,1899-12-31T00:00:00.000,7,Municipal,Peatón Atropellado,Masculino,85,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+05/09/2016 07:38:00 AM,05/09/2016 12:00:00 AM,lunes,1899-12-31T07:38:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,21,Pasajero Vehículo,Vehiculo particular,Vehiculo particular,Motocicleta,No aplica
+05/09/2016 07:38:00 AM,05/09/2016 12:00:00 AM,lunes,1899-12-31T07:38:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,23,Pasajero Vehículo,Vehiculo particular,Vehiculo particular,Motocicleta,No aplica
+05/09/2016 07:38:00 AM,05/09/2016 12:00:00 AM,lunes,1899-12-31T07:38:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,56,Conductor Moto,Motocicleta,Vehiculo particular,Vehiculo particular,No aplica
+05/10/2016 12:00:00 AM,05/10/2016 12:00:00 AM,martes,1899-12-31T00:00:00.000,10,Municipal,Caída de Ocupante,Femenino,66,Pasajero Externo,Microbus/Busetón,No aplica,No aplica,No aplica
+05/11/2016 04:40:00 PM,05/11/2016 12:00:00 AM,miércoles,1899-12-31T16:40:00.000,El Caguán,Municipal,Ciclista Atropellado,Masculino,59,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+05/17/2016 12:00:00 AM,05/17/2016 12:00:00 AM,martes,1899-12-31T00:00:00.000,7,Municipal,Colisión con Objeto Móvil,Femenino,58,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+05/23/2016 10:35:00 AM,05/23/2016 12:00:00 AM,lunes,1899-12-31T10:35:00.000,4,Municipal,Peatón Atropellado,Masculino,50,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/06/2016 12:40:00 PM,06/06/2016 12:00:00 AM,lunes,1899-12-31T12:40:00.000,5,Municipal,Peatón Atropellado,Masculino,32,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/12/2016 04:00:00 AM,06/12/2016 12:00:00 AM,domingo,1899-12-31T04:00:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,34,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/17/2016 12:00:00 AM,06/17/2016 12:00:00 AM,viernes,1899-12-31T00:00:00.000,2,Municipal,Colisión con Objeto Fijo,Masculino,28,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/17/2016 10:45:00 PM,06/17/2016 12:00:00 AM,viernes,1899-12-31T22:45:00.000,6,Municipal,Caída de Ocupante,Masculino,49,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+06/18/2016 11:48:00 PM,06/18/2016 12:00:00 AM,sábado,1899-12-31T23:48:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,32,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+06/19/2016 01:38:00 PM,06/19/2016 12:00:00 AM,domingo,1899-12-31T13:38:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,22,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+06/19/2016 09:37:00 AM,06/19/2016 12:00:00 AM,domingo,1899-12-31T09:37:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,10,Pasajero Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+07/02/2016 09:00:00 PM,07/02/2016 12:00:00 AM,sábado,1899-12-31T21:00:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,52,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/03/2016 01:30:00 PM,07/03/2016 12:00:00 AM,domingo,1899-12-31T13:30:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,25,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/08/2016 01:00:00 PM,07/08/2016 12:00:00 AM,viernes,1899-12-31T13:00:00.000,4,Municipal,Peatón Atropellado,Masculino,76,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+07/08/2016 06:30:00 AM,07/08/2016 12:00:00 AM,viernes,1899-12-31T06:30:00.000,6,Municipal,Peatón Atropellado,Femenino,64,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+07/12/2016 12:11:00 PM,07/12/2016 12:00:00 AM,martes,1899-12-31T12:11:00.000,3,Municipal,Colisión con Objeto Móvil,Femenino,22,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+07/17/2016 03:00:00 AM,07/17/2016 12:00:00 AM,domingo,1899-12-31T03:00:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,25,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/20/2016 02:30:00 PM,07/20/2016 12:00:00 AM,miércoles,1899-12-31T14:30:00.000,10,Municipal,Colisión con Objeto Fijo,Masculino,31,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+08/11/2016 03:19:00 PM,08/11/2016 12:00:00 AM,jueves,1899-12-31T15:19:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,61,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+08/16/2016 09:51:00 AM,08/16/2016 12:00:00 AM,martes,1899-12-31T09:51:00.000,6,Municipal,Volcamiento,Masculino,22,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+08/27/2016 01:30:00 PM,08/27/2016 12:00:00 AM,sábado,1899-12-31T13:30:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,N/E,0,Pasajero Moto,Motocicleta,Tractomula,No aplica,No aplica
+08/27/2016 01:30:00 PM,08/27/2016 12:00:00 AM,sábado,1899-12-31T13:30:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,21,Conductor Moto,Motocicleta,Tractomula,No aplica,No aplica
+08/28/2016 12:30:00 AM,08/28/2016 12:00:00 AM,domingo,1899-12-31T00:30:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,19,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+08/28/2016 12:30:00 AM,08/28/2016 12:00:00 AM,domingo,1899-12-31T00:30:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,25,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+09/05/2016 02:58:00 AM,09/05/2016 12:00:00 AM,lunes,1899-12-31T02:58:00.000,6,Municipal,Peatón Atropellado,Masculino,20,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+09/17/2016 02:32:00 AM,09/17/2016 12:00:00 AM,sábado,1899-12-31T02:32:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/06/2016 03:40:00 AM,10/06/2016 12:00:00 AM,jueves,1899-12-31T03:40:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,22,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/16/2016 09:18:00 AM,10/16/2016 12:00:00 AM,domingo,1899-12-31T09:18:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+10/16/2016 05:55:00 AM,10/16/2016 12:00:00 AM,domingo,1899-12-31T05:55:00.000,6,Departamental,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+10/18/2016 10:15:00 AM,10/18/2016 12:00:00 AM,martes,1899-12-31T10:15:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,48,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+10/22/2016 05:27:00 PM,10/22/2016 12:00:00 AM,sábado,1899-12-31T17:27:00.000,Ninguna,Nacional,Colisión con Objeto Fijo,Masculino,85,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+11/05/2016 11:56:00 PM,11/05/2016 12:00:00 AM,sábado,1899-12-31T23:56:00.000,El Caguán,Municipal,Peatón Atropellado,Femenino,79,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+11/07/2016 12:37:00 PM,11/07/2016 12:00:00 AM,lunes,1899-12-31T12:37:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,17,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+11/09/2016 03:43:00 PM,11/09/2016 12:00:00 AM,miércoles,1899-12-31T15:43:00.000,4,Municipal,Peatón Atropellado,Femenino,87,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+11/26/2016 08:31:00 PM,11/26/2016 12:00:00 AM,sábado,1899-12-31T20:31:00.000,3,Municipal,Volcamiento,Masculino,29,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+12/03/2016 11:00:00 PM,12/03/2016 12:00:00 AM,sábado,1899-12-31T23:00:00.000,10,Municipal,Colisión con Objeto Fijo,Femenino,21,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+12/23/2016 04:40:00 AM,12/23/2016 12:00:00 AM,viernes,1899-12-31T04:40:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,38,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+12/29/2016 07:35:00 AM,12/29/2016 12:00:00 AM,jueves,1899-12-31T07:35:00.000,4,Municipal,Colisión con Objeto Fijo,Femenino,27,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/01/2017 05:26:00 AM,01/01/2017 12:00:00 AM,domingo,1899-12-31T05:26:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,36,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+01/01/2017 08:00:00 AM,01/01/2017 12:00:00 AM,domingo,1899-12-31T08:00:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,12,Pasajero Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+01/01/2017 08:00:00 AM,01/01/2017 12:00:00 AM,domingo,1899-12-31T08:00:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,32,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+01/01/2017 08:10:00 AM,01/01/2017 12:00:00 AM,domingo,1899-12-31T08:10:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,54,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+01/16/2017 03:11:00 PM,01/16/2017 12:00:00 AM,lunes,1899-12-31T15:11:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,82,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+02/12/2017 05:35:00 PM,02/12/2017 12:00:00 AM,domingo,1899-12-31T17:35:00.000,1,Municipal,Peatón Atropellado,Femenino,68,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+02/19/2017 03:35:00 AM,02/19/2017 12:00:00 AM,domingo,1899-12-31T03:35:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,25,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+03/04/2017 01:54:00 PM,03/04/2017 12:00:00 AM,sábado,1899-12-31T13:54:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,48,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+04/13/2017 11:21:00 PM,04/13/2017 12:00:00 AM,jueves,1899-12-31T23:21:00.000,6,Municipal,Peatón Atropellado,Masculino,67,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+04/19/2017 09:05:00 AM,04/19/2017 12:00:00 AM,miércoles,1899-12-31T09:05:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,25,Conductor Moto,Motocicleta,Autónomo (Peatón),No aplica,No aplica
+04/23/2017 10:00:00 PM,04/23/2017 12:00:00 AM,domingo,1899-12-31T22:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+05/23/2017 01:30:00 PM,05/23/2017 12:00:00 AM,martes,1899-12-31T13:30:00.000,6,Municipal,Peatón Atropellado,Masculino,84,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+05/23/2017 06:32:00 PM,05/23/2017 12:00:00 AM,martes,1899-12-31T18:32:00.000,6,Municipal,Peatón Atropellado,Masculino,82,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/04/2017 04:30:00 AM,06/04/2017 12:00:00 AM,domingo,1899-12-31T04:30:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,29,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/04/2017 06:09:00 PM,06/04/2017 12:00:00 AM,domingo,1899-12-31T18:09:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,65,Pasajero Vehículo,Vehiculo particular,Vehiculo particular,Microbus/Busetón,No aplica
+06/04/2017 06:09:00 PM,06/04/2017 12:00:00 AM,domingo,1899-12-31T18:09:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,70,Conductor Vehículo,Vehiculo particular,Vehiculo particular,Microbus/Busetón,No aplica
+06/07/2017 04:45:00 PM,06/07/2017 12:00:00 AM,miércoles,1899-12-31T16:45:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Vehiculo particular,Camión/Camioneta,No aplica
+06/11/2017 12:18:00 AM,06/11/2017 12:00:00 AM,domingo,1899-12-31T00:18:00.000,Rio de la Ceibas,Municipal,Volcamiento,Masculino,17,Conductor Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+06/12/2017 01:30:00 PM,06/12/2017 12:00:00 AM,lunes,1899-12-31T13:30:00.000,3,Municipal,Peatón Atropellado,Masculino,50,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/17/2017 07:08:00 PM,06/17/2017 12:00:00 AM,sábado,1899-12-31T19:08:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,31,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+06/19/2017 08:28:00 AM,06/19/2017 12:00:00 AM,lunes,1899-12-31T08:28:00.000,2,Municipal,Colisión con Objeto Fijo,Femenino,53,Pasajero Vehículo,Vehiculo particular,Tractomula,No aplica,No aplica
+06/27/2017 05:53:00 AM,06/27/2017 12:00:00 AM,martes,1899-12-31T05:53:00.000,3,Municipal,Peatón Atropellado,Masculino,90,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/30/2017 05:00:00 AM,06/30/2017 12:00:00 AM,viernes,1899-12-31T05:00:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,14,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+06/30/2017 05:00:00 AM,06/30/2017 12:00:00 AM,viernes,1899-12-31T05:00:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,33,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+07/02/2017 09:45:00 AM,07/02/2017 12:00:00 AM,domingo,1899-12-31T09:45:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,23,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+07/09/2017 12:00:00 AM,07/09/2017 12:00:00 AM,domingo,Sn dato,1,Municipal,Colisión con Objeto Fijo,Masculino,39,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/16/2017 08:55:00 AM,07/16/2017 12:00:00 AM,domingo,1899-12-31T08:55:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,48,Conductor Moto,Motocicleta,Taxi,No aplica,No aplica
+07/23/2017 05:05:00 AM,07/23/2017 12:00:00 AM,domingo,1899-12-31T05:05:00.000,El Caguán,Municipal,Colisión con Objeto Fijo,Masculino,32,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/24/2017 12:15:00 PM,07/24/2017 12:00:00 AM,lunes,1899-12-31T12:15:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,61,Ciclista,Bicicleta,Camión/Camioneta,No aplica,No aplica
+08/26/2017 12:00:00 AM,08/26/2017 12:00:00 AM,sábado,Sin dato,9,Municipal,Peatón Atropellado,Femenino,56,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+08/31/2017 11:32:00 PM,08/31/2017 12:00:00 AM,jueves,1899-12-31T23:32:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,35,Conductor Vehículo,Vehiculo particular,Motocicleta,No aplica,No aplica
+09/17/2017 08:17:00 PM,09/17/2017 12:00:00 AM,domingo,1899-12-31T20:17:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,32,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/23/2017 05:01:00 PM,09/23/2017 12:00:00 AM,sábado,1899-12-31T17:01:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,56,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+09/24/2017 06:30:00 PM,09/24/2017 12:00:00 AM,domingo,1899-12-31T18:30:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,58,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+10/06/2017 11:10:00 PM,10/06/2017 12:00:00 AM,viernes,1899-12-31T23:10:00.000,1,Municipal,Caída de Ocupante,Masculino,58,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+10/15/2017 09:20:00 PM,10/15/2017 12:00:00 AM,domingo,1899-12-31T21:20:00.000,5,Municipal,Colisión con Objeto Fijo,Masculino,28,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/21/2017 06:19:00 PM,10/21/2017 12:00:00 AM,sábado,1899-12-31T18:19:00.000,10,Municipal,Colisión con Objeto Móvil,Masculino,18,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+10/22/2017 12:57:00 PM,10/22/2017 12:00:00 AM,domingo,1899-12-31T12:57:00.000,2,Municipal,Peatón Atropellado,Masculino,6,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+11/03/2017 07:25:00 AM,11/03/2017 12:00:00 AM,viernes,1899-12-31T07:25:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,76,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+11/24/2017 06:27:00 PM,11/24/2017 12:00:00 AM,viernes,1899-12-31T18:27:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,50,Ciclista,Bicicleta,Microbus/Busetón,No aplica,No aplica
+11/30/2017 08:28:00 AM,11/30/2017 12:00:00 AM,jueves,1899-12-31T08:28:00.000,4,Municipal,Peatón Atropellado,Masculino,74,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+12/14/2017 08:03:00 PM,12/14/2017 12:00:00 AM,jueves,1899-12-31T20:03:00.000,4,Municipal,Peatón Atropellado,Masculino,31,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+12/14/2017 07:04:00 PM,12/14/2017 12:00:00 AM,jueves,1899-12-31T19:04:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+12/17/2017 05:43:00 PM,12/17/2017 12:00:00 AM,domingo,1899-12-31T17:43:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,22,Conductor Moto,Motocicleta,Lancha/otro,No aplica,No aplica
+12/25/2017 10:17:00 PM,12/25/2017 12:00:00 AM,lunes,1899-12-31T22:17:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,33,Conductor Vehículo,Camión/Camioneta,Lancha/otro,No aplica,No aplica
+01/05/2018 01:08:00 PM,01/05/2018 12:00:00 AM,viernes,1899-12-31T13:08:00.000,4,Municipal,Peatón Atropellado,Masculino,94,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+01/06/2018 05:35:00 PM,01/06/2018 12:00:00 AM,sábado,1899-12-31T17:35:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,25,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+01/31/2018 11:59:00 AM,01/31/2018 12:00:00 AM,miércoles,1899-12-31T11:59:00.000,10,Municipal,Colisión con Objeto Móvil,Masculino,23,Sin Dato,Motocicleta,Vehiculo particular,No aplica,No aplica
+02/07/2018 05:12:00 PM,02/07/2018 12:00:00 AM,miércoles,1899-12-31T17:12:00.000,4,Municipal,Peatón Atropellado,Masculino,60,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+02/18/2018 02:15:00 AM,02/18/2018 12:00:00 AM,domingo,1899-12-31T02:15:00.000,1,Municipal,Colisión con Objeto Móvil,Femenino,20,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+02/19/2018 03:59:00 PM,02/19/2018 12:00:00 AM,lunes,1899-12-31T15:59:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,61,Conductor Moto,Motocicleta,Taxi,No aplica,No aplica
+02/26/2018 07:22:00 AM,02/26/2018 12:00:00 AM,lunes,1899-12-31T07:22:00.000,6,Municipal,Caída de Ocupante,Femenino,62,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+03/14/2018 03:51:00 PM,03/14/2018 12:00:00 AM,miércoles,1899-12-31T15:51:00.000,4,Municipal,Peatón Atropellado,Femenino,55,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+04/05/2018 04:50:00 AM,04/05/2018 12:00:00 AM,jueves,1899-12-31T04:50:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,38,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/11/2018 07:05:00 PM,04/11/2018 12:00:00 AM,miércoles,1899-12-31T19:05:00.000,2,Municipal,Peatón Atropellado,Femenino,3,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+04/12/2018 05:46:00 PM,04/12/2018 12:00:00 AM,jueves,1899-12-31T17:46:00.000,4,Municipal,Peatón Atropellado,Masculino,64,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+04/15/2018 07:30:00 PM,04/15/2018 12:00:00 AM,domingo,1899-12-31T19:30:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,38,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+04/28/2018 04:23:00 AM,04/28/2018 12:00:00 AM,sábado,1899-12-31T04:23:00.000,1,Municipal,Volcamiento,Masculino,21,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/28/2018 06:30:00 PM,04/28/2018 12:00:00 AM,sábado,1899-12-31T18:30:00.000,Vegalarga,Municipal,Volcamiento,Masculino,59,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+05/12/2018 06:14:00 AM,05/12/2018 12:00:00 AM,sábado,1899-12-31T06:14:00.000,4,Municipal,Colisión con Objeto Móvil,Femenino,74,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+05/15/2018 06:55:00 AM,05/15/2018 12:00:00 AM,martes,1899-12-31T06:55:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,50,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+05/30/2018 12:00:00 AM,05/30/2018 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,Ninguna,Municipal,Caída de Ocupante,Masculino,86,Pasajero Vehículo,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+06/01/2018 05:09:00 AM,06/01/2018 12:00:00 AM,viernes,1899-12-31T05:09:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+06/02/2018 07:02:00 PM,06/02/2018 12:00:00 AM,sábado,1899-12-31T19:02:00.000,5,Municipal,Peatón Atropellado,Masculino,68,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/08/2018 12:56:00 PM,06/08/2018 12:00:00 AM,viernes,1899-12-31T12:56:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Tractomula,No aplica,No aplica
+06/10/2018 01:06:00 AM,06/10/2018 12:00:00 AM,domingo,1899-12-31T01:06:00.000,6,Municipal,Volcamiento,Masculino,39,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/20/2018 06:35:00 AM,06/20/2018 12:00:00 AM,miércoles,1899-12-31T06:35:00.000,2,Municipal,Peatón Atropellado,Masculino,73,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/21/2018 08:11:00 AM,06/21/2018 12:00:00 AM,jueves,1899-12-31T08:11:00.000,9,Municipal,Volcamiento,Masculino,37,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/26/2018 12:00:00 AM,06/26/2018 12:00:00 AM,martes,Sin dato,2,Municipal,Colisión con Objeto Móvil,Masculino,50,Conductor Moto,Motocicleta,Autónomo (Peatón),No aplica,No aplica
+06/27/2018 01:00:00 PM,06/27/2018 12:00:00 AM,miércoles,1899-12-31T13:00:00.000,3,Municipal,Peatón Atropellado,Masculino,81,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/30/2018 01:20:00 AM,06/30/2018 12:00:00 AM,sábado,1899-12-31T01:20:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,19,Conductor Moto,Motocicleta,Animales,No aplica,No aplica
+07/01/2018 09:28:00 PM,07/01/2018 12:00:00 AM,domingo,1899-12-31T21:28:00.000,4,Municipal,Peatón Atropellado,Masculino,77,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+07/12/2018 09:43:00 AM,07/12/2018 12:00:00 AM,jueves,1899-12-31T09:43:00.000,4,Municipal,Peatón Atropellado,Femenino,64,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+07/23/2018 05:24:00 AM,07/23/2018 12:00:00 AM,lunes,1899-12-31T05:24:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,42,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+07/26/2018 12:00:00 AM,07/26/2018 12:00:00 AM,jueves,Sin dato,4,Municipal,Sin Dato,Masculino,55,Sin Dato,Sin dato,Sin dato,Sin dato,Sin dato
+08/06/2018 12:34:00 PM,08/06/2018 12:00:00 AM,lunes,1899-12-31T12:34:00.000,2,Municipal,Peatón Atropellado,Masculino,60,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+08/21/2018 01:36:00 PM,08/21/2018 12:00:00 AM,martes,1899-12-31T13:36:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,26,Ciclista,Bicicleta,Microbus/Busetón,No aplica,No aplica
+08/28/2018 12:00:00 AM,08/28/2018 12:00:00 AM,martes,1899-12-31T00:00:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,17,Ciclista,Bicicleta,Camión/Camioneta,No aplica,No aplica
+09/01/2018 04:15:00 PM,09/01/2018 12:00:00 AM,sábado,1899-12-31T16:15:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,41,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+09/01/2018 11:15:00 PM,09/01/2018 12:00:00 AM,sábado,1899-12-31T23:15:00.000,Fortalecillas,Municipal,Colisión con Objeto Fijo,Femenino,55,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/01/2018 04:05:00 PM,09/01/2018 12:00:00 AM,sábado,1899-12-31T16:05:00.000,9,Municipal,Peatón Atropellado,Masculino,62,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+09/05/2018 08:20:00 AM,09/05/2018 12:00:00 AM,miércoles,1899-12-31T08:20:00.000,10,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/07/2018 01:50:00 PM,09/07/2018 12:00:00 AM,viernes,1899-12-31T13:50:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,11,Ciclista,Bicicleta,Camión/Camioneta,No aplica,No aplica
+09/14/2018 11:42:00 PM,09/14/2018 12:00:00 AM,viernes,1899-12-31T23:42:00.000,8,Municipal,Colisión con Objeto Fijo,Masculino,24,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/17/2018 07:13:00 PM,09/17/2018 12:00:00 AM,lunes,1899-12-31T19:13:00.000,5,Municipal,Peatón Atropellado,Femenino,47,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+10/06/2018 09:50:00 PM,10/06/2018 12:00:00 AM,sábado,1899-12-31T21:50:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/12/2018 02:40:00 PM,10/12/2018 12:00:00 AM,viernes,1899-12-31T14:40:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,16,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+11/30/2018 04:51:00 PM,11/30/2018 12:00:00 AM,viernes,1899-12-31T16:51:00.000,4,Municipal,Peatón Atropellado,Masculino,84,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+12/02/2018 12:35:00 PM,12/02/2018 12:00:00 AM,domingo,1899-12-31T12:35:00.000,6,Municipal,Colisión con Objeto Fijo,Femenino,46,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+12/02/2018 12:35:00 PM,12/02/2018 12:00:00 AM,domingo,1899-12-31T12:35:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,49,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+12/06/2018 07:30:00 PM,12/06/2018 12:00:00 AM,jueves,1899-12-31T19:30:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,46,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+12/16/2018 12:00:00 AM,12/16/2018 12:00:00 AM,domingo,1899-12-31T00:00:00.000,1,Municipal,Peatón Atropellado,Femenino,90,Peatón,Autónomo (Peatón),Sin dato,No aplica,No aplica
+12/17/2018 12:00:00 AM,12/17/2018 12:00:00 AM,lunes,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,50,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+12/26/2018 04:37:00 PM,12/26/2018 12:00:00 AM,miércoles,1899-12-31T16:37:00.000,4,Municipal,Peatón Atropellado,Masculino,61,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/16/2019 09:35:00 AM,01/16/2019 12:00:00 AM,miércoles,1899-12-31T09:35:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,63,Ciclista,Bicicleta,Tractomula,No aplica,No aplica
+01/18/2019 12:38:00 AM,01/18/2019 12:00:00 AM,viernes,1899-12-31T00:38:00.000,10,Municipal,Colisión con Objeto Móvil,Masculino,80,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/27/2019 07:39:00 AM,01/27/2019 12:00:00 AM,domingo,1899-12-31T07:39:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,54,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+02/10/2019 08:18:00 PM,02/10/2019 12:00:00 AM,domingo,1899-12-31T20:18:00.000,1,Municipal,Peatón Atropellado,Femenino,55,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+02/28/2019 09:45:00 AM,02/28/2019 12:00:00 AM,jueves,1899-12-31T09:45:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,21,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+03/02/2019 01:18:00 AM,03/02/2019 12:00:00 AM,sábado,1899-12-31T01:18:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,28,Pasajero Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+03/02/2019 01:18:00 AM,03/02/2019 12:00:00 AM,sábado,1899-12-31T01:18:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+03/02/2019 05:25:00 AM,03/02/2019 12:00:00 AM,sábado,1899-12-31T05:25:00.000,6,Municipal,Peatón Atropellado,Femenino,23,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+03/11/2019 05:24:00 AM,03/11/2019 12:00:00 AM,lunes,1899-12-31T05:24:00.000,6,Municipal,Peatón Atropellado,Masculino,15,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+03/14/2019 12:00:00 AM,03/14/2019 12:00:00 AM,jueves,1899-12-31T00:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,26,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+03/15/2019 11:30:00 PM,03/15/2019 12:00:00 AM,viernes,1899-12-31T23:30:00.000,8,Municipal,Volcamiento,Masculino,20,Conductor Moto,No aplica,No aplica,No aplica,No aplica
+03/30/2019 12:56:00 PM,03/30/2019 12:00:00 AM,sábado,1899-12-31T12:56:00.000,5,Municipal,Colisión con Objeto Móvil,Femenino,23,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+04/01/2019 11:50:00 AM,04/01/2019 12:00:00 AM,lunes,1899-12-31T11:50:00.000,6,Municipal,Peatón Atropellado,Masculino,88,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+04/16/2019 06:00:00 AM,04/16/2019 12:00:00 AM,martes,1899-12-31T06:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,36,Conductor Moto,Motocicleta,Taxi,No aplica,No aplica
+05/07/2019 06:00:00 AM,05/07/2019 12:00:00 AM,martes,1899-12-31T06:00:00.000,El Caguán,Municipal,Peatón Atropellado,Masculino,58,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+05/16/2019 12:53:00 AM,05/16/2019 12:00:00 AM,jueves,1899-12-31T00:53:00.000,7,Municipal,Colisión con Objeto Fijo,Masculino,31,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+05/21/2019 01:07:00 PM,05/21/2019 12:00:00 AM,martes,1899-12-31T13:07:00.000,6,Municipal,Peatón Atropellado,Masculino,73,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+05/26/2019 05:12:00 AM,05/26/2019 12:00:00 AM,domingo,1899-12-31T05:12:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,29,Pasajero Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+05/27/2019 08:23:00 AM,05/27/2019 12:00:00 AM,lunes,1899-12-31T08:23:00.000,4,Municipal,Peatón Atropellado,Masculino,86,Peatón,Autónomo (Peatón),Sin dato,No aplica,No aplica
+05/28/2019 08:27:00 AM,05/28/2019 12:00:00 AM,martes,1899-12-31T08:27:00.000,Rio de la Ceibas,Municipal,Caída de Ocupante,Masculino,55,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/02/2019 08:45:00 AM,06/02/2019 12:00:00 AM,domingo,1899-12-31T08:45:00.000,7,Municipal,Colisión con Objeto Fijo,Masculino,68,Ciclista,Bicicleta,No aplica,No aplica,No aplica
+06/07/2019 06:36:00 AM,06/07/2019 12:00:00 AM,viernes,1899-12-31T06:36:00.000,2,Municipal,Peatón Atropellado,Masculino,66,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+06/09/2019 07:47:00 AM,06/09/2019 12:00:00 AM,domingo,1899-12-31T07:47:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,21,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/09/2019 03:00:00 AM,06/09/2019 12:00:00 AM,domingo,1899-12-31T03:00:00.000,Rio de la Ceibas,Municipal,Caída de Ocupante,Masculino,24,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+06/26/2019 02:39:00 AM,06/26/2019 12:00:00 AM,miércoles,1899-12-31T02:39:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,44,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+06/28/2019 01:30:00 AM,06/28/2019 12:00:00 AM,viernes,1899-12-31T01:30:00.000,Fortalecillas,Municipal,Caída de Ocupante,Masculino,49,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/30/2019 10:00:00 PM,06/30/2019 12:00:00 AM,domingo,1899-12-31T22:00:00.000,Vegalarga,Municipal,Colisión con Objeto Fijo,Masculino,15,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+07/09/2019 07:07:00 AM,07/09/2019 12:00:00 AM,martes,1899-12-31T07:07:00.000,2,Municipal,Colisión con Objeto Móvil,Femenino,64,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+07/29/2019 06:40:00 AM,07/29/2019 12:00:00 AM,lunes,1899-12-31T06:40:00.000,2,Municipal,Peatón Atropellado,Masculino,70,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+07/31/2019 12:00:00 AM,07/31/2019 12:00:00 AM,miércoles,1899-12-31T00:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,21,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+08/01/2019 01:16:00 PM,08/01/2019 12:00:00 AM,jueves,1899-12-31T13:16:00.000,6,Municipal,Peatón Atropellado,Masculino,85,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+08/17/2019 04:07:00 PM,08/17/2019 12:00:00 AM,sábado,1899-12-31T16:07:00.000,El Caguán,Municipal,Colisión con Objeto Móvil,Masculino,41,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+08/24/2019 11:43:00 PM,08/24/2019 12:00:00 AM,sábado,1899-12-31T23:43:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Taxi,No aplica,No aplica
+08/25/2019 03:50:00 AM,08/25/2019 12:00:00 AM,domingo,1899-12-31T03:50:00.000,1,Municipal,Colisión con Objeto Fijo,Femenino,23,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+08/27/2019 06:56:00 AM,08/27/2019 12:00:00 AM,martes,1899-12-31T06:56:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,17,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+09/02/2019 08:12:00 AM,09/02/2019 12:00:00 AM,lunes,1899-12-31T08:12:00.000,Vegalarga,Municipal,Volcamiento,Masculino,43,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/07/2019 05:14:00 AM,09/07/2019 12:00:00 AM,sábado,1899-12-31T05:14:00.000,5,Municipal,Colisión con Objeto Fijo,Femenino,18,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+09/07/2019 07:22:00 AM,09/07/2019 12:00:00 AM,sábado,1899-12-31T07:22:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,32,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+09/14/2019 05:55:00 AM,09/14/2019 12:00:00 AM,sábado,1899-12-31T05:55:00.000,1,Municipal,Colisión con Objeto Móvil,Masculino,71,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+09/14/2019 05:36:00 PM,09/14/2019 12:00:00 AM,sábado,1899-12-31T17:36:00.000,2,Municipal,Colisión con Objeto Móvil,Masculino,81,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+09/23/2019 04:07:00 PM,09/23/2019 12:00:00 AM,lunes,1899-12-31T16:07:00.000,6,Municipal,Colisión con Objeto Móvil,Femenino,63,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+09/28/2019 08:54:00 PM,09/28/2019 12:00:00 AM,sábado,1899-12-31T20:54:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,48,Conductor Moto,Motocicleta,Tractomula,No aplica,No aplica
+10/01/2019 08:00:00 AM,10/01/2019 12:00:00 AM,martes,1899-12-31T08:00:00.000,5,Municipal,Colisión con Objeto Móvil,Masculino,59,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+10/03/2019 01:30:00 AM,10/03/2019 12:00:00 AM,jueves,1899-12-31T01:30:00.000,3,Municipal,Colisión con Objeto Fijo,Masculino,20,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/11/2019 04:37:00 AM,10/11/2019 12:00:00 AM,viernes,1899-12-31T04:37:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,51,Pasajero Moto,Motocicleta,Taxi,No aplica,No aplica
+10/13/2019 12:31:00 AM,10/13/2019 12:00:00 AM,domingo,1899-12-31T00:31:00.000,7,Municipal,Colisión con Objeto Móvil,Masculino,18,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+10/27/2019 09:13:00 AM,10/27/2019 12:00:00 AM,domingo,1899-12-31T09:13:00.000,1,Municipal,Colisión con Objeto Fijo,Masculino,64,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/29/2019 05:26:00 AM,10/29/2019 12:00:00 AM,martes,1899-12-31T05:26:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,53,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+11/02/2019 02:00:00 PM,11/02/2019 12:00:00 AM,sábado,1899-12-31T14:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,24,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+11/09/2019 04:20:00 AM,11/09/2019 12:00:00 AM,sábado,1899-12-31T04:20:00.000,Guacirco,Nacional,Colisión con Objeto Fijo,Masculino,68,Pasajero Vehículo,Vehiculo particular,No aplica,No aplica,No aplica
+11/17/2019 03:00:00 AM,11/17/2019 12:00:00 AM,domingo,1899-12-31T03:00:00.000,6,Municipal,Colisión con Objeto Fijo,Masculino,46,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+11/18/2019 12:00:00 AM,11/18/2019 12:00:00 AM,lunes,1899-12-31T00:00:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,69,Pasajero Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+12/07/2019 10:35:00 PM,12/07/2019 12:00:00 AM,sábado,1899-12-31T22:35:00.000,Guacirco,Nacional,Colisión con Objeto Móvil,Masculino,46,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+12/16/2019 07:50:00 AM,12/16/2019 12:00:00 AM,lunes,1899-12-31T07:50:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,78,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+12/30/2019 11:30:00 AM,12/30/2019 12:00:00 AM,lunes,1899-12-31T11:30:00.000,4,Municipal,Colisión con Objeto Fijo,Masculino,53,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+01/11/2020 11:29:00 AM,01/11/2020 12:00:00 AM,sábado,1899-12-31T11:29:00.000,7,Municipal,Colisión con Objeto Móvil,Femenino,71,Pasajero Moto,Motocicleta,Motocicleta,No aplica,No aplica
+01/12/2020 11:00:00 AM,01/12/2020 12:00:00 AM,domingo,1899-12-31T11:00:00.000,6,Municipal,Caída de Ocupante,Masculino,30,Pasajero Vehículo,Autónomo (Peatón),Tractomula,No aplica,No aplica
+01/16/2020 12:00:00 AM,01/16/2020 12:00:00 AM,jueves,1899-12-31T00:00:00.000,5,Municipal,Peatón Atropellado,Masculino,80,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/21/2020 11:05:00 PM,01/21/2020 12:00:00 AM,martes,1899-12-31T23:05:00.000,6,Municipal,Peatón Atropellado,Femenino,75,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/22/2020 01:15:00 PM,01/22/2020 12:00:00 AM,miércoles,1899-12-31T13:15:00.000,9,Municipal,Volcamiento,Masculino,64,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+01/23/2020 03:15:00 PM,01/23/2020 12:00:00 AM,jueves,1899-12-31T15:15:00.000,6,Municipal,Peatón Atropellado,Masculino,78,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/31/2020 07:03:00 PM,01/31/2020 12:00:00 AM,viernes,1899-12-31T19:03:00.000,5,Municipal,Peatón Atropellado,Masculino,66,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica,No aplica
+02/05/2020 08:40:00 AM,02/05/2020 12:00:00 AM,miércoles,1899-12-31T08:40:00.000,3,Municipal,Colisión con Objeto Móvil,Masculino,76,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+02/08/2020 08:50:00 PM,02/08/2020 12:00:00 AM,sábado,1899-12-31T20:50:00.000,10,Municipal,Volcamiento,Masculino,56,Pasajero Moto,Motocicleta,No aplica,No aplica,No aplica
+03/11/2020 08:21:00 PM,03/11/2020 12:00:00 AM,martes,1899-12-31T20:21:00.000,3,Municipal,Peatón Atropellado,Masculino,68,Peatón,Autónomo (Peatón),Bicicleta,No aplica,No aplica
+05/25/2020 05:56:00 AM,05/25/2020 12:00:00 AM,lunes,1899-12-31T05:56:00.000,Fortalecillas,Municipal,Colisión con Objeto Fijo,Masculino,29,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+06/16/2020 05:30:00 PM,06/16/2020 12:00:00 AM,martes,1899-12-31T17:30:00.000,6,Municipal,Colisión con Objeto Móvil,Masculino,28,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+07/16/2020 11:30:00 AM,07/16/2020 12:00:00 AM,jueves,1899-12-31T11:30:00.000,Fortalecillas,Municipal,Colisión con Objeto Móvil,Masculino,17,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+07/24/2020 05:10:00 PM,07/24/2020 12:00:00 AM,viernes,1899-12-31T17:10:00.000,8,Municipal,Volcamiento,Femenino,28,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+08/12/2020 07:27:00 PM,08/12/2020 12:00:00 AM,miércoles,1899-12-31T19:27:00.000,7,Municipal,Sin Dato,Masculino,21,Conductor Moto,Sin dato,Sin dato,No aplica,No aplica
+09/09/2020 07:27:00 PM,09/09/2020 12:00:00 AM,miércoles,1899-12-31T19:27:00.000,9,Municipal,Peatón Atropellado,Masculino,83,Peatón,Autónomo (Peatón),Público,No aplica,No aplica
+09/22/2020 03:00:00 PM,09/22/2020 12:00:00 AM,martes,1899-12-31T15:00:00.000,3,Municipal,Colisión,Masculino,26,Conductor Moto,Motocicleta,Particular,No aplica,No aplica
+09/20/2020 04:04:00 PM,09/20/2020 12:00:00 AM,domingo,1899-12-31T16:04:00.000,Fortalecillas,Municipal,Colisión con objeto fijo,Masculino,24,Conductor Moto,Motocicleta,Particular,No aplica,No aplica
+09/26/2020 12:15:00 PM,09/26/2020 12:00:00 AM,sábado,1899-12-31T12:15:00.000,Vegalarga,Municipal,Volcamiento,Masculino,53,Pasajero,Camión/Camioneta,No aplica,No aplica,No aplica
+09/27/2020 04:50:00 AM,09/27/2020 12:00:00 AM,domingo,1899-12-31T04:50:00.000,8,Municipal,Colisión con objeto fijo,Masculino,25,Conductor de Moto,Motocicleta,Particular,No aplica,No aplica
+09/29/2020 12:00:00 AM,09/29/2020 12:00:00 AM,martes,Sin dato,1,Municipal,Colisión con objeto fijo,Femenino,53,Conductor Bicicleta,Bicicleta,Camión/Camioneta,No aplica,No aplica
+09/18/2020 01:30:00 PM,09/18/2020 12:00:00 AM,viernes,1899-12-31T13:30:00.000,4,Municipal,Colisión con Objeto Móvil,Masculino,22,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+10/03/2020 09:20:00 AM,10/03/2020 12:00:00 AM,sábado,1899-12-31T09:20:00.000,Guacirco,Municipal,Colisión con Objeto Móvil,Masculino,29,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+10/09/2020 05:00:00 AM,10/09/2020 12:00:00 AM,viernes,1899-12-31T05:00:00.000,6,Municipal,Peatón Atropellado,Masculino,25,Peatón,Autónomo (Peatón),Camión/Camioneta,No aplica,No aplica
+10/23/2020 12:10:00 PM,10/23/2020 12:00:00 AM,viernes,1899-12-31T12:10:00.000,9,Municipal,Colisión con Objeto Móvil,Masculino,32,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+10/26/2020 09:04:00 AM,10/26/2020 12:00:00 AM,lunes,1899-12-31T09:04:00.000,9,Municipal,Volcamiento,Masculino,52,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+11/22/2020 11:34:00 AM,11/22/2020 12:00:00 AM,domingo,1899-12-31T11:34:00.000,1,Municipal,Colisión con objeto fijo,Masculino,43,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+12/06/2020 12:30:00 AM,12/06/2020 12:00:00 AM,domingo,1899-12-31T00:30:00.000,El Caguán,Municipal,Colisión con objeto fijo,Masculino,22,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+12/15/2020 07:50:00 PM,12/15/2020 12:00:00 AM,martes,1899-12-31T19:50:00.000,El Caguán,Municipal,Colisión con objeto movil,Femenino,33,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+12/20/2020 03:03:00 PM,12/20/2020 12:00:00 AM,domingo,1899-12-31T15:03:00.000,4,Municipal,Colisión con objeto movil,Masculino,51,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+12/24/2020 12:30:00 PM,12/24/2020 12:00:00 AM,jueves,1899-12-31T12:30:00.000,2,Municipal,Colisión con objeto movil,Masculino,25,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+12/25/2020 01:04:00 AM,12/25/2020 12:00:00 AM,viernes,1899-12-31T01:04:00.000,1,Municipal,Colisión con objeto movil,Masculino,57,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+12/31/2020 12:00:00 AM,12/31/2020 12:00:00 AM,jueves,1899-12-31T00:00:00.000,Fortalecillas,Municipal,Peatón Atropellado,Masculino,81,Peatón,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+01/08/2021 10:40:00 PM,01/08/2021 12:00:00 AM,viernes,1899-12-31T22:40:00.000,Guacirco,Municipal,Volcamiento,Masculino,33,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+02/06/2021 06:27:00 AM,02/06/2021 12:00:00 AM,sábado,1899-12-31T06:27:00.000,6,Municipal,Otra Clase de Accidente,Femenino,17,Ciclista,Bicicleta,No aplica,No aplica,No aplica
+02/10/2021 08:10:00 PM,02/10/2021 12:00:00 AM,miércoles,1899-12-31T20:10:00.000,6,Municipal,Colisión con objeto movil,Masculino,57,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+02/15/2021 06:30:00 AM,02/15/2021 12:00:00 AM,lunes,1899-12-31T06:30:00.000,6,Municipal,Colisión con objeto movil,Masculino,20,Pasajero Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+02/15/2021 08:05:00 AM,02/15/2021 12:00:00 AM,lunes,1899-12-31T08:05:00.000,6,Municipal,Colisión con objeto movil,Masculino,20,Conductor Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+03/07/2021 11:17:00 PM,03/07/2021 12:00:00 AM,domingo,1899-12-31T23:17:00.000,3,Municipal,Colisión con objeto fijo,Masculino,21,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+03/11/2021 11:17:00 PM,03/11/2021 12:00:00 AM,jueves,1899-12-31T23:17:00.000,1,Municipal,Volcamiento,Femenino,49,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+03/13/2021 02:44:00 AM,03/13/2021 12:00:00 AM,sábado,1899-12-31T02:44:00.000,4,Municipal,Colisión con objeto fijo,Masculino,58,Ciclista,Bicicleta,Vehiculo particular,No aplica,No aplica
+03/13/2021 08:24:00 AM,03/13/2021 12:00:00 AM,sábado,1899-12-31T08:24:00.000,Fortalecillas,Municipal,Colisión con objeto móvil,Masculino,63,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+02/14/2021 05:44:00 AM,02/14/2021 12:00:00 AM,domingo,1899-12-31T05:44:00.000,El Caguán,Municipal,Volcamiento,Femenino,31,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+03/28/2021 08:23:00 PM,03/28/2021 12:00:00 AM,domingo,1899-12-31T20:23:00.000,1,Municipal,Volcamiento,Masculino,24,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+04/06/2021 02:50:00 AM,04/06/2021 12:00:00 AM,martes,1899-12-31T02:50:00.000,6,Municipal,Colisión con objeto movil,Masculino,28,Conductor de Moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+04/09/2021 12:47:00 AM,04/09/2021 12:00:00 AM,viernes,1899-12-31T00:47:00.000,3,Municipal,Colisión con objeto movil,Masculino,77,Ciclista,Bicicleta,Vehiculo particular,No aplica,No aplica
+04/13/2021 06:08:00 AM,04/13/2021 12:00:00 AM,martes,1899-12-31T06:08:00.000,6,Municipal,Colisión con objeto movil,Femenino,22,Conductor de Moto,Motocicleta,Particular,No aplica,No aplica
+04/19/2021 05:13:00 AM,04/19/2021 12:00:00 AM,lunes,1899-12-31T05:13:00.000,9,Municipal,Peatón Atropellado,Masculino,6,Peatón,Autónomo (Peatón),Particular,No aplica,No aplica
+04/25/2021 08:20:00 AM,04/25/2021 12:00:00 AM,domingo,1899-12-31T08:20:00.000,1,Municipal,Colisión con objeto fijo,Masculino,33,Conductor de Moto,Motocicleta,No aplica,No aplica,No aplica
+05/08/2021 01:55:00 PM,05/08/2021 12:00:00 AM,sábado,1899-12-31T13:55:00.000,Fortalecillas,Municipal,Colisión con objeto movil,Masculino,28,Pasajero de Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+05/06/2021 03:00:00 AM,05/06/2021 12:00:00 AM,jueves,1899-12-31T03:00:00.000,4,Municipal,Peatón Atropellado,Femenino,72,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica,No aplica
+05/11/2021 03:13:00 PM,05/11/2021 12:00:00 AM,martes,1899-12-31T15:13:00.000,10,Municipal,Colisión con objeto fijo,Masculino,15,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+05/30/2021 03:35:00 PM,05/30/2021 12:00:00 AM,domingo,1899-12-31T15:35:00.000,1,Municipal,Colisión con objeto fijo,Masculino,46,Conductor Moto,Motocicleta,Sin dato,No aplica,No aplica
+06/24/2021 05:23:00 PM,06/24/2021 12:00:00 AM,jueves,1899-12-31T17:23:00.000,6,Municipal,Colisión con animales,Masculino,43,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+07/25/2021 03:36:00 AM,07/25/2021 12:00:00 AM,domingo,1899-12-31T03:36:00.000,San Luis,Municipal,Sin Dato,Masculino,27,Conductor Moto,Motocicleta,Sin dato,Sin dato,Sin dato
+08/01/2021 02:50:00 PM,08/01/2021 12:00:00 AM,domingo,1899-12-31T14:50:00.000,1,Municipal,Volcamiento,Masculino,49,Conductor Moto,Particular,Sin dato,Sin dato,Sin dato
+08/02/2021 11:00:00 PM,08/02/2021 12:00:00 AM,lunes,1899-12-31T23:00:00.000,1,Municipal,Volcamiento,Masculino,42,Conductor Moto,Particular,Sin dato,Sin dato,Sin dato
+08/07/2021 03:58:00 AM,08/07/2021 12:00:00 AM,sábado,1899-12-31T03:58:00.000,6,Municipal,Colisión con objeto móvil,Masculino,36,Conductor Moto,Particular,Sin dato,Sin dato,Sin dato
+08/14/2021 03:58:00 AM,08/14/2021 12:00:00 AM,sábado,1899-12-31T03:58:00.000,Vegalarga,Municipal,Volcamiento,Masculino,53,Conductor Camioneta,Particular,No aplica,No aplica,No aplica
+08/19/2021 06:04:00 PM,08/19/2021 12:00:00 AM,jueves,1899-12-31T18:04:00.000,El Caguán,Municipal,Colision con objeto fijo,Masculino,18,Pasajero moto,Particular,Otro,No aplica,No aplica
+08/19/2021 01:40:00 PM,08/19/2021 12:00:00 AM,jueves,1899-12-31T13:40:00.000,El Caguán,Municipal,Colision con objeto fijo,Masculino,17,Conductor Moto,Motocicleta,Otro,No aplica,No aplica
+08/30/2021 12:29:00 AM,08/30/2021 12:00:00 AM,lunes,1899-12-31T00:29:00.000,7,Municipal,Caida de ocupante,Masculino,21,Peatón,No aplica,No aplica,No aplica,Particular
+09/20/2021 12:29:00 AM,09/20/2021 12:00:00 AM,lunes,1899-12-31T00:29:00.000,9,Municipal,Colisión con objeto fijo,Masculino,25,Conductor Moto,Motocicleta,Particular,No aplica,Particular
+09/27/2021 04:30:00 PM,09/27/2021 12:00:00 AM,lunes,1899-12-31T16:30:00.000,6,Municipal,Colisión con objeto móvil,Masculino,35,Conductor Moto,Motocicleta,No aplica,No aplica,Particular
+10/02/2021 11:04:00 AM,10/02/2021 12:00:00 AM,sabado,1899-12-31T11:04:00.000,6,Municipal,Peatón Atropellado,Femenino,71,Peatón,No aplica,Motocicleta,No aplica,No aplica
+10/03/2021 05:30:00 AM,10/03/2021 12:00:00 AM,domingo,1899-12-31T05:30:00.000,1,Municipal,Colisión con objeto fijo,Masculino,26,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/13/2021 06:30:00 AM,10/13/2021 12:00:00 AM,miércoles,1899-12-31T06:30:00.000,9,Nacional,Sin Dato,Masculino,30,Peatón,No aplica,No aplica,No aplica,No aplica
+10/17/2021 10:15:00 PM,10/17/2021 12:00:00 AM,domingo,1899-12-31T22:15:00.000,5,Municipal,Colisión con objeto movil,Masculino,32,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+10/20/2021 11:04:00 AM,10/20/2021 12:00:00 AM,miércoles,1899-12-31T11:04:00.000,4,Municipal,Colisión con objeto móvil,Femenino,53,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+10/20/2021 05:44:00 PM,10/20/2021 12:00:00 AM,miércoles,1899-12-31T17:44:00.000,1,Municipal,Colisión con objeto móvil,Masculino,25,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+10/24/2021 01:00:00 AM,10/24/2021 12:00:00 AM,domingo,1899-12-31T01:00:00.000,GUACIRCO,Municipal,Colisión con objeto fijo,Masculino,30,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/26/2021 10:00:00 PM,10/26/2021 12:00:00 AM,martes,1899-12-31T22:00:00.000,El Caguán,Municipal,Colisión con objeto fijo,Masculino,47,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+10/27/2021 12:00:00 AM,10/27/2021 12:00:00 AM,miércoles,Sin dato,5,Municipal,Sin Dato,Masculino,76,Sin Dato,Sin dato,Sin dato,Sin dato,Sin dato
+10/27/2021 04:15:00 PM,10/27/2021 12:00:00 AM,miércoles,1899-12-31T16:15:00.000,6,Municipal,Colisión con objeto móvil,Masculino,34,Conductor Moto,Motocicleta,Motocicleta,No aplica,No aplica
+11/05/2021 12:00:00 AM,11/05/2021 12:00:00 AM,viernes,sin dato,6,Municipal,Volcamiento,Femenino,40,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+11/09/2021 03:27:00 PM,11/09/2021 12:00:00 AM,martes,1899-12-31T15:27:00.000,6,Municipal,Colsion con objeto movil,Masculino,27,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica,No aplica
+11/09/2021 09:00:00 PM,11/09/2021 12:00:00 AM,martes,1899-12-31T21:00:00.000,6,Municipal,Peatón Atropellado,Masculino,47,Peatón,No aplica,Motocicleta,No aplica,No aplica
+11/11/2021 11:15:00 PM,11/11/2021 12:00:00 AM,jueves,1899-12-31T23:15:00.000,2,Municipal,Volcamiento,Masculino,22,Conductor Moto,Motocicleta,No aplica,No aplica,No aplica
+11/13/2021 03:43:00 PM,11/13/2021 12:00:00 AM,sábado,1899-12-31T15:43:00.000,Trapichito,Municipal,Colision con objeto movil,Masculino,55,Conductor moto,Motocicleta,Microbus/Busetón,No aplica,No aplica
+11/15/2021 03:11:00 PM,11/15/2021 12:00:00 AM,lunes,1899-12-31T15:11:00.000,San Antonio,Municipal,Volcamiento,Femenino,62,Pasajero de vehiculo,Camión/Camioneta,No aplica,No aplica,No aplica
+11/22/2021 09:07:00 PM,11/22/2021 12:00:00 AM,lunes,1899-12-31T21:07:00.000,6,Municipal,Colision con objeto movil,Femenino,40,Conductor de Moto,Motocicleta,Motocicleta,No aplica,No aplica
+11/29/2021 01:10:00 AM,11/29/2021 12:00:00 AM,lunes,1899-12-31T01:10:00.000,3,Municipal,Colision con objeto fijo,Masculino,43,Conductor de vehiculo,Motocicleta,No aplica,No aplica,No aplica
+12/07/2021 04:04:00 PM,12/07/2021 12:00:00 AM,martes,1899-12-31T16:04:00.000,4,Municipal,Sin Dato,Masculino,58,Sin Dato,Sin dato,Sin dato,No aplica,No aplica
+12/12/2021 03:50:00 PM,12/12/2021 12:00:00 AM,domingo,1899-12-31T15:50:00.000,4,Municipal,Colision con objeto movil,Femenino,28,Conductor de Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+12/21/2021 06:59:00 PM,12/21/2021 12:00:00 AM,martes,1899-12-31T18:59:00.000,10,Municipal,Peatón Atropellado,Masculino,67,Peaton,Autónomo (Peatón),Motocicleta,No aplica,No aplica
+12/24/2021 01:09:00 PM,12/24/2021 12:00:00 AM,viernes,1899-12-31T13:09:00.000,8,Municipal,Volcamiento,Femenino,23,Conductor de Moto,Motocicleta,No aplica,No aplica,No aplica
+12/25/2021 04:15:00 PM,12/25/2021 12:00:00 AM,sabado,1899-12-31T16:15:00.000,4,Municipal,Colision con objeto movil,Masculino,32,Conductor de Moto,Motocicleta,Vehiculo particular,No aplica,No aplica
+12/25/2021 08:19:00 PM,12/25/2021 12:00:00 AM,sabado,1899-12-31T20:19:00.000,1,Municipal,Colision con objeto movil,Masculino,74,Ciclista,Bicicleta,Motocicleta,No aplica,No aplica
+01/31/2022 05:58:00 PM,01/31/2022 12:00:00 AM,martes,1899-12-31T17:58:00.000,6,Municipal,Colision con objeto movil,Masculino,54,Ciclista,Ciclista,Bicicleta,Microbus/Busetón,No aplica
+02/06/2022 07:50:00 PM,02/06/2022 12:00:00 AM,domingo,1899-12-31T19:50:00.000,1,Municipal,No reportada,Masculino,22,Conductor moto,Conductor moto,Motocicleta,No aplica,No aplica
+02/26/2022 07:13:00 AM,02/26/2022 12:00:00 AM,martes,1899-12-31T07:13:00.000,1,Municipal,No reportada,Masculino,34,No reportada,No reportada,No reportada,No reportada,No reportada
+03/11/2022 02:15:00 PM,03/11/2022 12:00:00 AM,viernes,1899-12-31T14:15:00.000,2,Municipal,Peatón Atropellado,Masculino,81,Peatón,Peatón,No aplica,Motocicleta,No aplica
+03/13/2022 06:00:00 PM,03/13/2022 12:00:00 AM,sabado,1899-12-31T18:00:00.000,2,Municipal,Peatón Atropellado,Femenino,36,Peatón,Peatón,Autónomo (Peatón),Vehiculo particular,No aplica
+04/02/2022 07:09:00 PM,04/02/2022 12:00:00 AM,sabado,1899-12-31T19:09:00.000,6,Municipal,Colision con objeto movil,Masculino,56,Conductor moto,Conductor moto,Motocicleta,Vehiculo particular,No aplica
+04/02/2022 08:00:00 AM,04/02/2022 12:00:00 AM,martes,1899-12-31T08:00:00.000,6,Municipal,Colision con objeto movil,Masculino,64,Conductor moto,Conductor moto,Motocicleta,Tractomula,No aplica
+04/03/2022 08:00:00 AM,04/03/2022 12:00:00 AM,domingo,1899-12-31T08:00:00.000,6,Municipal,Colision con objeto movil,Masculino,46,Conductor moto,Conductor moto,Motocicleta,Motocicleta,No aplica
+05/07/2022 07:58:00 PM,05/07/2022 12:00:00 AM,martes,1899-12-31T19:58:00.000,2,Municipal,Colision con objeto movil,Femenino,64,Ciclista,Ciclista,Bicicleta,Camión/Camioneta,No aplica
+05/15/2022 08:55:00 AM,05/15/2022 12:00:00 AM,viernes,1899-12-31T08:55:00.000,4,Municipal,Colision con objeto movil,Masculino,72,Conductor moto,Conductor moto,Motocicleta,No reportada,No aplica
+05/22/2022 12:17:00 PM,05/22/2022 12:00:00 AM,sabado,1899-12-31T12:17:00.000,Rio Las Ceibas,Municipal,Volcamiento,Femenino,32,Conductor moto,Conductor moto,Motocicleta,No aplica,No aplica
+05/25/2022 05:00:00 PM,05/25/2022 12:00:00 AM,sabado,1899-12-31T17:00:00.000,2,Municipal,Colision con objeto movil,Femenino,41,Conductor de moto,Conductor de moto,Motocicleta,Microbus/Busetón,No aplica
+06/06/2022 09:42:00 AM,06/06/2022 12:00:00 AM,martes,1899-12-31T09:42:00.000,4,Municipal,Colision con objeto movil,Masculino,49,Conductor moto,Conductor moto,Motocicleta,Camión/Camioneta,No aplica
+06/21/2022 07:20:00 PM,06/21/2022 12:00:00 AM,domingo,1899-12-31T19:20:00.000,4,Municipal,Peatón Atropellado,Masculino,10,Peatón,Peatón,No aplica,Motocicleta,No aplica
+06/21/2022 06:08:00 PM,06/21/2022 12:00:00 AM,martes,1899-12-31T18:08:00.000,6,Municipal,Colision con objeto movil,Masculino,30,Conductor moto,Conductor moto,Motocicleta,Camión/Camioneta,No aplica
+06/22/2022 03:36:00 PM,06/22/2022 12:00:00 AM,viernes,1899-12-31T15:36:00.000,1,Municipal,Peatón Atropellado,Femenino,67,Peatón,Peatón,No aplica,Motocicleta,No aplica
+06/24/2022 06:55:00 PM,06/24/2022 12:00:00 AM,sabado,1899-12-31T18:55:00.000,4,Municipal,Peatón Atropellado,Masculino,72,Peatón,Peatón,No aplica,Motocicleta,No aplica
+06/24/2022 12:05:00 PM,06/24/2022 12:00:00 AM,sabado,1899-12-31T12:05:00.000,6,Municipal,Ciclista Atropellado,Masculino,78,Ciclista,Ciclista,Bicicleta,Motocicleta,No aplica
+06/27/2022 01:50:00 PM,06/27/2022 12:00:00 AM,martes,1899-12-31T13:50:00.000,San Luis,Municipal,Otra Clase de Accidente,Masculino,45,Conductor vehiculo,Conductor vehiculo,Vehiculo particular,No aplica,No aplica
+06/28/2022 05:40:00 PM,06/28/2022 12:00:00 AM,domingo,1899-12-31T17:40:00.000,8,Municipal,Peatón Atropellado,Femenino,76,Peatón,Peatón,Autónomo (Peatón),Motocicleta,No aplica
+07/02/2022 03:00:00 AM,07/02/2022 12:00:00 AM,martes,1899-12-31T03:00:00.000,6,Municipal,Colision con objeto movil,Masculino,31,Conductor moto,Conductor moto,Motocicleta,Vehiculo particular,No aplica
+07/03/2022 11:47:00 AM,07/03/2022 12:00:00 AM,viernes,1899-12-31T11:47:00.000,5,Municipal,Peatón Atropellado,Masculino,90,Peatón,Peatón,Autónomo (Peatón),Microbus/Busetón,No aplica
+07/03/2022 07:10:00 PM,07/03/2022 12:00:00 AM,sabado,1899-12-31T19:10:00.000,Guacirco,Municipal,Colision con objeto movil,Masculino,61,Conductor moto,Conductor moto,Motocicleta,Vehiculo particular,No aplica
+07/07/2022 09:05:00 AM,07/07/2022 12:00:00 AM,sabado,1899-12-31T09:05:00.000,5,Municipal,Peatón Atropellado,Femenino,72,Peatón,Peatón,Autónomo (Peatón),Motocicleta,No aplica
+07/14/2022 11:29:00 AM,07/14/2022 12:00:00 AM,martes,11:29,4,Municipal,Colision con objeto movil,Femenino,36,Pasajero moto,Pasajero moto,Motocicleta,Motocicleta,No aplica
+07/19/2022 02:20:00 PM,07/19/2022 12:00:00 AM,domingo,1899-12-31T14:20:00.000,1,Municipal,Colision con objeto fijo,Femenino,21,Conductor moto,Conductor moto,Motocicleta,No aplica,No aplica
+07/25/2022 01:05:00 PM,07/25/2022 12:00:00 AM,martes,1899-12-31T13:05:00.000,10,Municipal,Colision con objeto movil,Femenino,58,Conductor moto,Conductor moto,Motocicleta,Vehiculo particular,No aplica
+07/30/2022 11:48:00 PM,07/30/2022 12:00:00 AM,viernes,1899-12-31T23:48:00.000,2,Municipal,Colision con objeto movil,Masculino,43,Conductor moto,Conductor moto,Motocicleta,Motocicleta,No aplica
+08/08/2022 03:30:00 PM,08/08/2022 12:00:00 AM,sabado,1899-12-31T15:30:00.000,Chapinero,Municipal,Colision con objeto fijo,Masculino,51,Conductor moto,Conductor moto,Motocicleta,No aplica,No aplica
+08/25/2022 06:45:00 PM,08/25/2022 12:00:00 AM,sabado,1899-12-31T18:45:00.000,6,Municipal,Colision con objeto movil,Masculino,21,Conductor moto,Conductor moto,Motocicleta,Camión/Camioneta,No aplica
+08/26/2022 06:35:00 PM,08/26/2022 12:00:00 AM,martes,1899-12-31T18:35:00.000,6,Municipal,Peatón Atropellado,Masculino,69,Peatón,Peatón,Autónomo (Peatón),Motocicleta,No aplica
+08/27/2022 10:06:00 PM,08/27/2022 12:00:00 AM,domingo,1899-12-31T22:06:00.000,6,Municipal,Colision con objeto movil,Masculino,38,Conductor moto,Conductor moto,Motocicleta,Vehiculo particular,No aplica
+08/28/2022 04:30:00 AM,08/28/2022 12:00:00 AM,martes,1899-12-31T04:30:00.000,6,Municipal,Caída de Ocupante,Masculino,44,Pasajero moto,Pasajero moto,Motocicleta,No aplica,No aplica
+09/07/2022 08:30:00 AM,09/07/2022 12:00:00 AM,viernes,1899-12-31T08:30:00.000,4,Municipal,Colision con objeto fijo,Masculino,31,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+09/13/2022 10:31:00 AM,09/13/2022 12:00:00 AM,sabado,1899-12-31T10:31:00.000,6,Municipal,Colision con objeto movil,Masculino,24,Conductor Moto,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica
+09/18/2022 12:05:00 AM,09/18/2022 12:00:00 AM,sabado,1899-12-31T00:05:00.000,6,Nacional,Colision con objeto movil,Masculino,30,Conductor Moto,Conductor Moto,Motocicleta,Camión/Camioneta,No aplica
+09/18/2022 03:10:00 AM,09/18/2022 12:00:00 AM,martes,1899-12-31T03:10:00.000,9,Municipal,Colision con objeto fijo,Masculino,30,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+09/24/2022 09:41:00 PM,09/24/2022 12:00:00 AM,domingo,1899-12-31T21:41:00.000,8,Municipal,Colision con objeto fijo,Masculino,42,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+10/22/2022 08:22:00 AM,10/22/2022 12:00:00 AM,martes,1899-12-31T08:22:00.000,10,Municipal,Colision con objeto fijo,Masculino,21,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+10/31/2022 11:49:00 PM,10/31/2022 12:00:00 AM,viernes,1899-12-31T23:49:00.000,4,Municipal,Volcamiento,Masculino,57,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+11/01/2022 07:32:00 PM,11/01/2022 12:00:00 AM,sabado,1899-12-31T19:32:00.000,4,Municipal,Peatón Atropellado,Masculino,61,Peatón,Peatón,Autónomo (Peatón),No aplica,No aplica
+11/01/2022 12:00:00 AM,11/01/2022 12:00:00 AM,sabado,No reportada,4,Municipal,Colision con objeto movil,Masculino,23,Conductor Moto,Conductor Moto,No reportada,,
+11/02/2022 07:20:00 PM,11/02/2022 12:00:00 AM,martes,1899-12-31T19:20:00.000,5,Municipal,Colision con objeto movil,Masculino,22,Conductor Moto,Conductor Moto,Motocicleta,Motocicleta,No aplica
+11/10/2022 06:20:00 PM,11/10/2022 12:00:00 AM,domingo,1899-12-31T18:20:00.000,4,Municipal,Colision con objeto movill,Masculino,64,Conductor Moto,Conductor Moto,Motocicleta,Microbus/Busetón,No aplica
+11/13/2022 04:21:00 AM,11/13/2022 12:00:00 AM,martes,1899-12-31T04:21:00.000,3,Municipal,Volcamiento,Masculino,21,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+11/16/2022 06:00:00 PM,11/16/2022 12:00:00 AM,viernes,1899-12-31T18:00:00.000,6,Municipal,Peatón Atropellado,Masculino,72,Peatón,Peatón,Autónomo (Peatón),Motocicleta,No aplica
+11/26/2022 09:33:00 AM,11/26/2022 12:00:00 AM,sabado,1899-12-31T09:33:00.000,4,Municipal,Peatón Atropellado,Femenino,64,Peatón,Peatón,Autónomo (Peatón),No aplica,No aplica
+12/07/2022 05:28:00 PM,12/07/2022 12:00:00 AM,sabado,1899-12-31T17:28:00.000,4,Municipal,Peatón Atropellado,Femenino,78,Peatón,Peatón,Autónomo (Peatón),No aplica,No aplica
+12/10/2022 11:15:00 PM,12/10/2022 12:00:00 AM,martes,1899-12-31T23:15:00.000,Vegalarga,Municipal,Caída de Ocupante,Masculino,20,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+12/11/2022 04:10:00 AM,12/11/2022 12:00:00 AM,domingo,1899-12-31T04:10:00.000,Río Las Ceibas,Municipal,Caida de ocupante,Masculino,28,Conductor de Moto,Conductor de Moto,Motocicleta,No aplica,No aplica
+12/16/2022 07:04:00 PM,12/16/2022 12:00:00 AM,martes,1899-12-31T19:04:00.000,4,Municipal,Colisión con objeto movil,Masculino,69,Ciclista,Ciclista,Bicicleta,No aplica,No aplica
+12/18/2022 05:21:00 AM,12/18/2022 12:00:00 AM,viernes,1899-12-31T05:21:00.000,3,Municipal,Caida de ocupante,Masculino,30,Conductor Moto,Conductor Moto,Motocicleta,No aplica,No aplica
+12/24/2022 02:15:00 PM,12/24/2022 12:00:00 AM,sabado,1899-12-31T14:15:00.000,6,Municipal,Colision con objeto fijo,Masculino,41,Conductor moto,Conductor moto,Motocicleta,No aplica,No aplica
+12/26/2022 09:47:00 AM,12/26/2022 12:00:00 AM,sabado,1899-12-31T09:47:00.000,3,Municipal,Peatón Atropellado,Femenino,71,Peatón,Peatón,Autónomo (Peatón),No aplica,No aplica
